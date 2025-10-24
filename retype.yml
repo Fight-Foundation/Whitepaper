@@ -27,7 +27,7 @@ theme:
   toggle: false
   dark:
     base-color: "#FF4001"
-    base-bg: "#303446"
+    base-bg: "#000000"
 
 # Exclude README from the site nav; keep it as repo documentation only
 exclude:
