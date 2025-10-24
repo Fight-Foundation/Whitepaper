@@ -5,54 +5,67 @@ icon: graph
 
 # Tokenomics
 
-## Overview and supply
+## Overview and Supply
 
-$FIGHT is a Solana (SPL) IP token with a **fixed maximum supply of 10,000,000,000 tokens**. At the Token Generation Event (TGE), the initial price is **$0.0500**, implying a **$500,000,000 FDV**. Circulating supply at TGE is **~9.35% (935,000,000 $FIGHT)**. All other tokens remain locked and vest according to the schedules below. This structure establishes clear scarcity from day one while leaving ample runway for long-term ecosystem incentives.
+$FIGHT is a Solana (SPL) IP token with a **fixed maximum supply of 10,000,000,000 tokens**.  
+At the Token Generation Event (TGE), the initial reference price is **$0.0500**, implying a **$500,000,000 fully diluted supply benchmark**. Circulating supply at TGE is expected to be **approximately 9.35% (935,000,000 $FIGHT)**, with all other tokens locked and vesting according to the schedules below.  
+
+This structure provides transparency around token allocation while ensuring long-term alignment between community participants, contributors, and partners.  
+
+> *Token supply and emission schedules are described for technical transparency only. No offer or solicitation is being made. Pricing and market data, if any, are indicative and provided by third parties.*
 
 ## Composition at TGE
 
-Circulating tokens at launch consist of:
-- **Community**: 5% of its allocation (285,000,000 $FIGHT)
-- **Liquidity**: 100% of its allocation (650,000,000 $FIGHT)
+Circulating tokens at launch consist of:  
+- **Community**: 5% of its allocation (285,000,000 $FIGHT)  
+- **Liquidity**: 100% of its allocation (650,000,000 $FIGHT)  
 
-Every other category (Team, Investors, Advisors, etc..) begins fully locked. This mix enables healthy price discovery and market depth, while ensuring that short-term supply is driven by user incentives and liquidity—not early unlocks.
+All other categories (Team, Investors, Advisors, etc.) begin fully locked. This design ensures that early supply is directed toward community participation and liquidity, not early unlocks.
 
-## Why this design matters
+## Design Rationale
 
-The launch mix reduces slippage for mainstream users on day one, avoids reflexive sell pressure from large unlocks, and directs most early supply toward utility (community programs) and accessibility (liquidity). As product surfaces (prediction markets, fighter communities, merch/tickets) come online, that accessible supply is used to participate—creating transaction flow that the DAO can redirect toward buybacks/burns and growth grants.
+The initial mix supports stable market access and minimizes early unlock pressure. It focuses the first phase of circulation on genuine ecosystem participation—fans joining through FightID, staking, and fighter community activities—while maintaining transparency on vesting and governance processes managed by the DAO.
 
 ## Allocation and Release
 
 ### Community — 57.0% (5,700,000,000 $FIGHT)
 
-**Release schedule**: 5% at TGE, then 1/48 of the remainder monthly over 48 months.
+**Release schedule:** 5% at TGE, then 1/48 of the remainder monthly over 48 months.  
+**Purpose:** Airdrops, staking rewards, ecosystem grants, and community programs to engage fans, fighters, and builders.  
+**Rationale:** The large community allocation ensures rewards can be distributed across multiple seasons, aligned with UFC’s fight-week cadence and ongoing product launches.
 
-**Purpose**: Airdrops, staking rewards, ecosystem grants, and community programs that bring fans, fighters, and builders into the loop.
-
-**Why it matters**: A large community allocation lets us reward real participation over multiple seasons rather than burning through incentives in the first months. It aligns with UFC's event cadence and provides consistent reasons for new and returning fans to engage.
-
-**How value accrues to $FIGHT**: Community incentives increase entries, staking, and commerce that generate $FIGHT-denominated fees. Those fees flow to the DAO and are used for buybacks/burns and future growth programs—linking participation directly to token value.
+---
 
 ### Core Team — 15.0% (1,500,000,000 $FIGHT)
 
-**Release schedule**: 12-month cliff, then 1/24 monthly over the next 24 months.
+**Release schedule:** 12-month cliff, then 1/24 monthly over the next 24 months.  
+**Rationale:** The one-year cliff ensures alignment with multi-season delivery and avoids short-term supply shocks. Token vesting follows published schedules governed by DAO transparency standards.
 
-**Why it matters**: A one-year cliff eliminates early supply shocks from contributors and ensures the team is aligned with multi-season delivery.
-
-**How value accrues to $FIGHT**: Teams are incentivized to build fee-producing utilities (prediction markets, staking programs, communities). As those utilities grow, the DAO can allocate more cash flow to buybacks/burns, strengthening the token while contributors vest gradually.
+---
 
 ### Advisors — 4.0% (400,000,000 $FIGHT)
 
-**Release schedule**: 12-month lockup, then 1/18 monthly over 18 months.
+**Release schedule:** 12-month lockup, then 1/18 monthly over 18 months.  
+**Rationale:** Strategic partners and advisors are compensated for distribution, listings, and ecosystem growth support, with long-term vesting that prevents early liquidity pressure.
 
-**Why it matters**: Strategic help is rewarded without introducing early sell pressure. Advisors are encouraged to focus on distribution, listings, and partnerships that compound over time.
-
-**How value accrues to $FIGHT**: Advisors help open new surfaces where $FIGHT is used (exchanges, partners, commerce). More surfaces mean more sinks and fees, which the DAO recirculates into buybacks/burns and ecosystem grants.
+---
 
 ### Liquidity — 6.5% (650,000,000 $FIGHT)
 
-**Release schedule**: 100% unlocked at TGE.
+**Release schedule:** 100% unlocked at TGE.  
+**Rationale:** Day-one liquidity ensures accessible entry points for fans and ecosystem participants while reducing slippage and promoting fair participation across decentralized and centralized venues.
 
-**Why it matters**: Day-one depth reduces slippage and enables mainstream fans to acquire and use $FIGHT without friction.
+---
 
-**How value accrues to $FIGHT**: Healthy routing and minimal slippage encourage participation in prediction markets, communities, and commerce. Each transaction generates fees that flow to the DAO for buybacks/burns and growth, creating a self-reinforcing loop.
+### Investors — 17.5% (1,750,000,000 $FIGHT)
+
+**Release schedule:** 12-month lockup, then 1/18 monthly over 18 months.  
+**Rationale:** Long-term vesting aligns capital partners with sustained growth, product maturity, and governance milestones.
+
+---
+
+### Governance and Transparency
+
+All token unlocks are executed through on-chain schedules and reported via DAO dashboards. Treasury policies governing emissions, grants, and liquidity programs are **community-approved and may be adjusted through governance proposals**.  
+
+> *Nothing in this section should be interpreted as an offer of securities, a promise of future value, or an expectation of profit. All allocations and parameters are subject to change by DAO governance or legal requirements.*
