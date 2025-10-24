@@ -1,7 +1,7 @@
 input: .
 output: .retype
 
-url: https://fight-foundation.github.io/Whitepaper/
+url: https://read.fight.foundation
 
 branding:
   title: Fight Whitepaper
@@ -17,20 +17,20 @@ links:
 
 footer:
   copyright: "&copy; Copyright {{ year }}. Fight Foundation. All rights reserved."
+  links:
+    - text: Disclaimer
+      link: disclaimer.md
 
 # Force dark mode only and hide the theme toggle
 theme:
   default: dark
   toggle: false
+  dark:
+    base-color: "#FF4001"
+    base-bg: "#303446"
 
 # Exclude README from the site nav; keep it as repo documentation only
 exclude:
   - README.md
 
-scheme:
-  mode: dark
-
-theme:
-  dark:
-    base-color: "#FF4001"
-    base-bg: "#303446"
+# Removed duplicate theme/footer blocks and Pro-only scheme.mode
