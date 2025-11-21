@@ -3,11 +3,15 @@ order: 900
 icon: shield-check
 ---
 
-# The UFC Partnership
+# The Fight.ID Partnership with UFC
 
-## Public announcement and endorsement
+## Public announcement and collaboration
 
-The UFC and Fight.ID have publicly announced a multi-year collaboration aimed at uniting MMA fans with Web3 experiences built around identity, loyalty, and ownership. The announcement outlines a roadmap that includes a loyalty layer anchored in Fight.ID, the Prize$Fight bonus program for fighters, and the FightGear premium apparel line aligned with the FIGHT ecosystem. It also includes an explicit statement of support from Grant Norris-Jones, Executive Vice President and Head of Global Partnerships at TKO, affirming the UFC's commitment to backing the Fight.ID ecosystem over the coming years. This public validation provides clarity to partners, athletes, and fans that Fight is being developed in concert with the UFC's long-term fan engagement strategy.
+The UFC and **Fight.ID** have publicly announced a multi-year collaboration aimed at uniting MMA fans with Web3 experiences built around identity, loyalty, and ownership. The announcement outlines a roadmap that includes a loyalty layer anchored in Fight.ID, the Prize$Fight bonus program for fighters, and the FightGear premium apparel line.
+
+It includes an explicit statement of support from Grant Norris-Jones, Executive Vice President and Head of Global Partnerships at TKO, affirming the UFC's commitment to backing the **Fight.ID ecosystem** over the coming years. This public validation provides clarity to partners, athletes, and fans that Fight.ID is being developed in concert with the UFC's long-term fan engagement strategy.
+
+**Important distinction:** The UFC partnership is with **Fight.ID** (the digital identity and fan engagement platform). **$FIGHT is an ecosystem token for combat sports** built by the Fight Foundation to power utilities across the Fight.ID network. The UFC does not endorse $FIGHT or any cryptocurrency.
 
 ## Scope, placements, and distribution signal
 

@@ -6,9 +6,11 @@ order: 100000
 
 # Fight Whitepaper
 
-**The Official IP Token of Combat Sports**
+**Ecosystem Token for Combat Sports**
 
 Welcome to the Fight Foundation whitepaper.
+
+**Fight is the Web3 home of combat-sports fandom** — built by the developers behind UFC Strike and powered by Fight.ID, the official digital gateway for MMA and fight culture.
 
 Use the navigation to explore:
 - Executive Summary

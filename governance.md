@@ -108,15 +108,64 @@ These allocations are **not intended as investment returns or price support**, a
 
 ---
 
-## Athlete Council Integration
+## Athlete Council (Expanded)
 
-The **Athlete Council** acts as a formal advisory body to ensure that fighters’ perspectives are represented in governance and treasury decisions.  
-It advises on:
-- Fighter community programs and staking models.  
-- Prize$Fight allocation frameworks.  
-- Integrity, safety, and fairness guidelines.  
+### What it is and who's involved
 
-Council members serve rotating terms and are compensated via milestone-based, DAO-approved token streams.
+The **Athlete Council** is a formal advisory body that ensures fighters' voices directly influence product design, policy, and incentive structures across the Fight ecosystem. It is chaired operationally by **Rob Winkler** (GM, UFC Strike) and composed of active athletes and coaches who bring a real-world perspective on what resonates with fighters and fans. The Council's role is not symbolic; it is integrated into the product and treasury process so that priorities like fairness, engagement, and athlete welfare are embedded from the outset.
+
+Initial public supporters include UFC athletes **Josh Emmett, Gilbert Burns, Dan Ige, Vicente Luque, Alexandre Pantoja,** and **Gregory "Robocop" Rodrigues**, as well as coach **Eric Nicksick**.
+
+### Mandate and scope
+
+The Council advises on fighter-centric utility and experiences end to end:
+
+- **Prediction markets:** which props are meaningful, how to define "skill-based" formats, and where integrity or safety considerations apply.
+- **Fighter communities:** staking tiers, perk structures, membership mechanics, and codes of conduct that promote respectful, long-term fandom.
+- **Content and programming:** formats for AMAs, watch-alongs, training drops, and behind-the-scenes experiences that reward both fighters and committed fans.
+- **Prize$Fight disbursements:** criteria, nomination flows, and transparency standards for bonus awards and event bounties.
+- **Principles and safety:** upholding **Fight Fair / Fight Together / Fight Through / Fight Forever** in incentive design; championing anti-abuse practices; and recommending swift guardrails when new mechanics create unintended behavior.
+
+### Why it matters
+
+Fighter-aligned governance is essential for legitimacy and distribution. When athletes help shape utilities and incentives, the products feel authentic, adoption rises, and the ecosystem earns trust from the broader UFC audience. Practically, the Council reduces the gap between what the community builds and what fighters actually want—lowering iteration cycles, improving retention in fighter communities, and increasing the likelihood that athletes actively promote Fight programs to their fans.
+
+### Compensation and alignment
+
+Council members are compensated with **streamed token awards** from a DAO-overseen allocation, using **cliffs and activity-based vesting**. This structure rewards ongoing contributions (attendance, reviews, proposal feedback, campaign participation) and discourages purely nominal involvement. Clear contribution logs and milestone check-ins ensure accountability and make renewals or adjustments straightforward through DAO proposals.
+
+### Process and accountability
+
+Council recommendations are recorded in public RFCs or proposal threads and routed through the relevant working group (e.g., Product/UX, Treasury, Risk & Integrity). Where budget is required—such as Prize$Fight pool top-ups or new community perk funding—requests move to token-holder vote under standard quorum and timelocks. This keeps fighter input front-and-center while preserving transparent, on-chain control by $FIGHT holders.
+
+### How value accrues to $FIGHT
+
+Athlete-guided design improves **participation quality** and **conversion** at every step of the funnel. Better prediction props, more compelling community perks, and credible Prize$Fight criteria lead to more **$FIGHT-denominated entries, stakes, and purchases**. Those interactions generate fees that flow to the DAO, which—per policy—allocates a share to **buybacks and burns** (reducing circulating supply) and a share to growth programs (fueling the next wave of users and utilities). In short, the Athlete Council raises product-market fit with fighters and their fanbases, which increases throughput across all $FIGHT sinks and strengthens the token's value loop over time.
+
+---
+
+## Treasury Policy (Expanded)
+
+Net revenues from $FIGHT-denominated utilities—prediction market fees, community memberships and upgrades, merch/ticket rails, FightGear royalties, Prize$Fight protocol fees, and partner revenue-shares—flow to the **DAO treasury**. Under published policies, the DAO allocates these proceeds to:
+
+- **Buybacks and burns** that reduce circulating supply over time
+- **Ecosystem grants** (builders, fighters, creators) with milestone-based disbursements and clawbacks
+- **Liquidity programs** that deepen markets and smooth onboarding
+- **Risk & security reserves** for audits, oracle integrity, and dispute handling
+
+Budget allocations are reviewed on a regular cadence (e.g., quarterly) and require fresh votes to renew.
+
+### Transparency and controls
+
+The Foundation maintains **on-chain reporting** for emissions, treasury balances, incoming fee streams, grants issued, and program outcomes. Key contracts are **audited**, parameter changes are **timelocked**, and all multisig signers are disclosed with rotation rules. Conflicts of interest are declared in proposal threads; any emergency powers are narrow, pre-defined, and sunset automatically unless reauthorized by token vote.
+
+### Why this governance model matters
+
+Open, auditable governance builds trust with **fans, fighters, partners, and regulators**. It ensures that incentives are not changed behind closed doors, that the community can shape priorities, and that resources are deployed where they create the most value. The Athlete Council's input keeps utility fighter-centric; working groups keep operations focused and accountable; and progressive decentralization ensures speed now without sacrificing long-term legitimacy.
+
+### How value accrues to $FIGHT (Governance Context)
+
+Rational treasury management ties **real, recurring revenues** to **buybacks/burns** and to the **growth programs** that create the next wave of usage. As prediction markets, communities, and commerce rails scale, fee throughput in $FIGHT increases; the DAO converts part of that throughput into reduced supply (burns) and part into higher utility (grants, liquidity, partnerships). Because token holders ultimately approve these policies, improvements to value capture feed back into $FIGHT itself, reinforcing the token's role as the economic backbone of the ecosystem.
 
 ---
 
