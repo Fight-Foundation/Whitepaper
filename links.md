@@ -1,11 +1,10 @@
 ---
-hidden: true
-order: 99999
+order: 50
 icon: link
-label: References & Links
+label: Links & Resources
 ---
 
-# References & Links
+# Links & Resources
 
 This page aggregates official resources, announcements, partnerships, and community links for easy reference.
 
@@ -16,6 +15,16 @@ This page aggregates official resources, announcements, partnerships, and commun
 - **Fight.ID (identity platform):** https://fight.id
 - **UFC Strike:** https://ufcstrike.com
 - **MICA Whitepaper (Admission to Trading):** [Download PDF](/assets/251015_For_Notification_FIGHT_Whitepaper_Admission_to_Trading_ID.pdf)
+
+---
+
+## Community & Support
+
+- **Discord:** https://discord.gg/fightid
+- **Instagram:** https://instagram.com/JoinFightID
+- **TikTok:** https://tiktok.com/@joinfightid
+- **Telegram:** https://t.me/fightfiofficial
+- **Support Email:** support@fight.id
 
 ---
 
