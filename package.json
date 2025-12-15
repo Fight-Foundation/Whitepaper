@@ -9,7 +9,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "retype build",
-    "start": "retype start"
+    "start": "retype start",
+    "pdf": "bash build-pdf.sh"
   },
   "repository": {
     "type": "git",

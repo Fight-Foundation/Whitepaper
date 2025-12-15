@@ -66,7 +66,7 @@ The initial mix supports stable market access and minimizes early unlock pressur
 
 ---
 
-![](/assets/images/token_charts.png)
+![](assets/images/token_charts.png)
 
 ---
 
