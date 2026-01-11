@@ -14,9 +14,11 @@ The Fight roadmap is built around UFC's fight calendar and progressive feature r
 
 During the pre-TGE phase, we publish the full emissions and governance specifications, expand the **Fight.ID** quest program, and run **UFC-tied fight-week funnels** that rehearse our acquisition and retention motions. In parallel, we launch **fighter ambassador campaigns** with clear creative kits, performance SLAs, and FP-based rewards so that athletes and creators can reliably onboard their audiences.
 
+**UFC Strike Gifts Drop #1 Completed:** Successfully demonstrated rapid Fight.ID creation and low-friction onboarding at scale through simple engagement actions (join, verify, engage). Validated Telegram as a repeatable, high-reach distribution surface with strong performance in Asia, LATAM, and emerging markets. Rewards structured around access, FP acceleration, and licensed digital items—not token airdrops.
+
 **Why this matters:** Clear economics and transparent governance reduce uncertainty for partners and users, while fight-week rehearsals prove that our funnels convert mainstream attention into identity claims and repeat engagement.
 
-**How value accrues to $FIGHT:** Each rehearsal pushes more users through **FightID → FP → paid utilities**, priming post-TGE demand for staking and entries that generate $FIGHT-denominated fees for the DAO's treasury programs.
+**How value accrues to $FIGHT:** Each rehearsal pushes more users through **Fight.ID → FP → paid utilities**, priming post-TGE demand for staking and entries that generate $FIGHT-denominated fees for the DAO's treasury programs.
 
 ---
 
@@ -24,7 +26,9 @@ During the pre-TGE phase, we publish the full emissions and governance specifica
 
 Immediately after TGE, **staking** goes live with **FP multipliers** and **leaderboards** so that early adopters see tangible advantages for reputation. We also run the first **Prize$Fight** bounties to reward standout performances and superfans, and we light up **$FIGHT rails for merch and tickets** with UFC-adjacent partners where supported. The **Partner Ecosystem Access** model launches, enabling select projects to burn $FIGHT for FP distribution to the Fight.ID community through quests and campaigns.
 
-**Telegram Drop #1 Completed:** Successfully demonstrated rapid Fight.ID creation and low-friction onboarding at scale through simple engagement actions (join, verify, engage). Validated Telegram as a repeatable, high-reach distribution surface with strong performance in Asia, LATAM, and emerging markets. Rewards structured around access, FP acceleration, and licensed digital items—not token airdrops.
+**Future UFC Strike Gifts Drop:** Following the success of the first **UFC Strike Gifts Drop**, which validated the platform as a **high-reach** surface for rapid Fight.ID creation and low-friction onboarding, the 2026 roadmap aims to establish a **predictable distribution and monetization rhythm**. UFC Strike Gifts Telegram Drops #2, #3, and #4 are tentatively scheduled across Q2, Q3, and Q4 to maintain **consistent engagement** and scale the ecosystem’s geographic footprint in Asia, LATAM, and emerging markets. 
+
+This distribution strategy is specifically designed to **convert Telegram's 1 billion+ users** into active Fight.ID holders by funneling them into licensed drops, gated access experiences, and premium merchandise. Structured as "participate-to-access" rather than passive token airdrops, these quarterly events utilize **measurable conversion targets** to drive fans toward FP acceleration and authenticated digital ownership. By aligning these drops with the UFC's operating clock, Fight.ID transforms social engagement into a **repeatable pipeline for long-term platform participation**.
 
 **Why this matters:** Fans get instant, meaningful utility on day one—stake to join fighter communities, earn boosted rewards via FP, and participate in visible prize moments. Projects gain direct access to an authenticated, engaged fanbase, creating immediate demand for $FIGHT. Telegram distribution converts mainstream users into Fight.ID holders at minimal friction.
 
@@ -46,8 +50,6 @@ We expand **exchange coverage** to improve routing depth and accessibility for n
 
 We **scale Fighter Communities** with **dynamic entry pricing** and **member dividends**, deepen perk stacks (AMAs, watch-alongs, club tournaments), and roll out **FightGear** capsule drops tied to marquee events. FightGear business strategy and prototype merchandise reach consumer testing. In parallel, we add **additional league integrations** and enable **selective multi-chain access** where partner distribution requires it—while keeping Solana as the economic hub.
 
-**Telegram Drop #2 (Q2):** Second-wave Telegram distribution and monetization experiment focused on converting Telegram users into active Fight.ID holders and funneling them into licensed drops, gated access experiences, and merchandise. Structured as participate-to-access rather than token airdrop, with measurable conversion targets and strong geographic reach in high-growth regions.
-
 **Consumer IP Collaboration — Pengu (Q2, Subject to Partner Approval):** Consumer brand crossover drop expanding Fight beyond MMA-only audiences. Structured as brand-led, access-driven participation designed to bring new user cohorts into Fight.ID through shared culture-first, mainstream appeal. Partnership timing subject to partner approval and brand alignment.
 
 **MMA Gym Drops (Q2 Exploratory):** Physical-to-digital funnel leveraging gyms as real-world distribution nodes and community anchors. Gym-specific digital collectibles, FP multipliers, and localized access privileges create authentic, grassroots adoption with strong defensibility versus purely digital campaigns. Gyms act as trusted onboarding environments embedded in combat sports culture.
@@ -60,7 +62,7 @@ We **scale Fighter Communities** with **dynamic entry pricing** and **member div
 
 ## 2027+
 
-We begin the **FightHub** rollout—an interoperable network of partner apps and leagues that honor **FightID**, **FP**, and **$FIGHT**—and we onboard global fight organizations into the ecosystem. We also experiment with **AR/VR fan experiences** that use identity and reputation for access and progression. By this stage, the DAO operates **fully matured treasury policies** financed by real, diversified revenues. **FightGear** business model ready for launch with stand-alone P&L as the retail arm of the core digital product business.
+We begin the **FightHub** rollout—an interoperable network of partner apps and leagues that honor **Fight.ID**, **FP**, and **$FIGHT**—and we onboard global fight organizations into the ecosystem. We also experiment with **AR/VR fan experiences** that use identity and reputation for access and progression. By this stage, the DAO operates **fully matured treasury policies** financed by real, diversified revenues. **FightGear** business model ready for launch with stand-alone P&L as the retail arm of the core digital product business.
 
 **Why this matters:** FightHub turns our stack into a standard for combat-sports participation, compounding network effects as more partners and fans align on one identity, one reputation system, and one token. **FightGear** business adds value both in revenue and marketing adoption.
 
@@ -71,7 +73,7 @@ We begin the **FightHub** rollout—an interoperable network of partner apps and
 ## Principles Driving Sequencing
 
 1. **Distribution-first:** Leverage UFC fight-week cadence from day one
-2. **Identity foundation:** Establish FightID before deep token sinks
+2. **Identity foundation:** Establish Fight.ID before deep token sinks
 3. **Governance maturity:** Scale DAO operations parallel to utility expansion
 4. **Compliance & integrity:** Build jurisdictional controls and safeguards early
 
