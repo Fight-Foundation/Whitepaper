@@ -32,7 +32,7 @@ The Fight ecosystem integrates multiple utility surfaces that turn combat-sports
 
 ## 3. Fighter Communities & Staking
 
-On-chain fan clubs requiring **$FIGHT stakes** for membership. Each fighter's community offers exclusive content, AMAs, watch-alongs, merch drops, prediction tournaments, and Prize$Fight bounties. Membership maintained through active stakes; upgrades via increased stake or higher FP.
+On-chain fan clubs requiring **$FIGHT stakes** for membership. Each fighter's community offers exclusive content, AMAs, watch-alongs, merch drops, licensed collectible access, access to partner-operated tournaments (where DAO-authorized), and Prize$Fight bounties. Membership maintained through active stakes; upgrades via increased stake or higher FP.
 
 **Core mechanics:**
 - **Dynamic entry pricing:** Stakes rise as membership grows, rewarding early supporters.
@@ -43,13 +43,17 @@ On-chain fan clubs requiring **$FIGHT stakes** for membership. Each fighter's co
 
 ---
 
-## 4. Prediction Markets (Partner-Operated)
+## 4. Partner-Operated Utilities (DAO-Authorized)
 
-**Fantasy-style games** (not wagering on fight results) offered through partnership with a licensed operator. Fans use **$FIGHT** to enter skill-based challenges covering MMA culture: card announcements, walkout aesthetics, media moments, training camps, and creator content.
+### Prediction Markets
+
+**Fantasy-style games** (not wagering on fight results) operated by licensed partners subject to DAO authorization. Partners may offer $FIGHT-based entry to skill-based challenges covering MMA culture: card announcements, walkout aesthetics, media moments, training camps, and creator content.
 
 Entries scored against objective, pre-published resolution sources. Fans compete in seasonal leaderboards, club tournaments, and creator-hosted games rewarding high-FP performance.
 
-**Value accrual:** Maker/taker/settlement fees collected in $FIGHT, routed to DAO treasury for ecosystem support, liquidity, and grants. Seasonal mechanics increase entry frequency.
+**Partner model:** Licensed operators build and maintain prediction products; Fight ecosystem provides distribution, identity layer (FightID), and reputation system (FP). DAO authorizes partner integrations and reviews fee structures.
+
+**Value accrual:** Maker/taker/settlement fees collected in $FIGHT per partner agreements, with revenue-share routed to DAO treasury for ecosystem support, liquidity, and grants. Seasonal mechanics increase entry frequency. Partners may also acquire FP through permissionless staking to distribute as rewards.
 
 ---
 
@@ -69,7 +73,7 @@ Premium combat-sports lifestyle brand featuring limited-run capsule drops, fight
 
 Programmable prize-pool framework for **fighter bonuses**, **fan challenges**, and **event-based bounties** (e.g., "Finish of the Night," "Fan MVP," "Underdog Upset"). Pools funded by sponsors, community initiatives, or DAO allocations. Disbursed transparently on-chain with **Athlete Council** guidance.
 
-**Why it matters:** Turns fan support into tangible rewards for athletes. Aligns incentives—fighters rewarded for memorable performances, fans for engagement and prediction skill, sponsors for measurable activation. What benefits fighters benefits fans, and vice versa.
+**Why it matters:** Turns fan support into tangible rewards for athletes. Aligns incentives—fighters rewarded for memorable performances, fans for engagement and community participation, sponsors for measurable activation. What benefits fighters benefits fans, and vice versa.
 
 **Value accrual:** Funding, pledges, and entry fees denominated in **$FIGHT**. Protocol fee routes to treasury for **ecosystem support** and future campaigns. Clusters around fight week, driving new **FightID** sign-ups and repeat token usage. Some bonuses time-locked until fighter retirement, reducing float.
 
@@ -85,18 +89,42 @@ Network of partner apps, leagues, and utilities integrating the Fight standard: 
 
 ---
 
+### UFC Strike Collectibles & Licensed Drops
+
+**Licensed digital collectibles** synchronized to UFC events and fighter moments. Built on the UFC Strike infrastructure developed by Concept Labs, this represents an existing, revenue-positive product line with over **$20M in primary sales** and **100,000+ unique collectors**.
+
+**Drop mechanics:**
+- **Fight Moments** — officially licensed collectibles featuring fighters, finishes, and highlights
+- **Event-based releases** — drops aligned to fight weeks, creating predictable revenue windows
+- **Scarcity tiers** — open editions for accessibility, limited and ultra-limited for premium engagement
+
+**Integration with Fight ecosystem:**
+- Moments serve as **Fight.ID onboarding tools** — owning a Moment accelerates identity creation
+- Moments generate **FP** — collectible ownership contributes to reputation scores
+- **FP gates access** — high-reputation holders receive priority in future drops and exclusive access windows
+
+**Revenue streams:**
+- **Primary sales** — direct revenue from new collectible mints
+- **Platform fees** — transaction fees on marketplace activity
+- **Secondary royalties** — programmable revenue share from peer-to-peer resales
+
+All revenue denominated in $FIGHT where supported, with programmatic flows to DAO treasury for ecosystem support and growth programs. This extends proven product-market fit into the broader Fight economic layer.
+
+---
+
 ## Revenue Model & Value Routing
 
 All utility surfaces generate $FIGHT-denominated fees flowing to the DAO treasury under transparent policies.
 
 | Utility | Revenue Streams | Cadence |
 |---------|----------------|---------|
-| **Prediction Markets** | Maker/taker/settlement fees, seasonal passes | Weekly (fight-week) |
+| **Licensed Drops (UFC Strike)** | Primary sales, platform fees, secondary royalties | Event-synchronized (fight weeks) |
+| **Partner Ecosystem Access** | $FIGHT burns for FP distribution | Ongoing |
+| **Prediction Markets (Partner-Operated)** | Revenue-share fees per partner agreements | Weekly (fight-week) |
 | **Fighter Communities** | Join/upgrade fees, tournaments | Ongoing |
 | **FightGear** | Sales, royalties, holder discounts | Event & drop cycles |
 | **Prize$Fight** | Protocol fee on funding & entries | Event-based |
 | **FightHub Partners** | Revenue-share from integrations | Variable |
-| **NFTs & Collectibles** | Sales, marketplace fees, royalties | Event-aligned |
 | **Ticketing & Merch** | Transaction fees, partner shares | Event cycles |
 
 ### Value Routing

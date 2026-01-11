@@ -121,7 +121,8 @@ Initial public supporters include UFC athletes **Josh Emmett, Gilbert Burns, Dan
 The Council advises on fighter-centric utility and experiences end to end:
 
 - **Partner ecosystem access:** ensuring projects that burn $FIGHT for FP distribution create value for fighters and fans; guiding quest design and campaign ethics.
-- **Prediction markets (partner-operated):** which props are meaningful, how to define "skill-based" formats, and where integrity or safety considerations apply.
+- **Partner-operated utilities (DAO-authorized):** reviewing prediction markets and other partner integrations for fighter brand alignment, appropriate mechanics, and integrity standards; advising on which formats are meaningful and where safety considerations apply.
+- **Licensed digital collectibles:** which Moments resonate with fans, appropriate scarcity tiers, and event-synchronization strategies that respect fighter brand equity.
 - **Fighter communities:** staking tiers, perk structures, membership mechanics, and codes of conduct that promote respectful, long-term engagement.
 - **Content and programming:** formats for AMAs, watch-alongs, training drops, and behind-the-scenes experiences that reward both fighters and committed fans.
 - **Prize$Fight disbursements:** criteria, nomination flows, and transparency standards for bonus awards and event bounties.
@@ -141,13 +142,13 @@ Council recommendations are recorded in public RFCs or proposal threads and rout
 
 ### How value accrues to $FIGHT
 
-Athlete-guided design improves **participation quality** and **conversion** at every step of the funnel. Better prediction props, more compelling community perks, credible Prize$Fight criteria, and fighter-vetted partner campaigns lead to more **$FIGHT-denominated entries, stakes, purchases, and burns**. Those interactions generate fees that flow to the DAO, which—per policy—allocates a share to **token and ecosystem support** (DAO-directed programs to strengthen the token) and a share to growth programs (fueling the next wave of users and utilities). Partner demand for FP distribution creates direct burn pressure as projects burn $FIGHT to access the Fight.ID community. In short, the Athlete Council raises product-market fit with fighters and their fanbases, which increases throughput across all $FIGHT sinks and strengthens the token's value loop over time.
+Athlete-guided design improves **participation quality** and **conversion** at every step of the funnel. Better drop designs, more compelling community perks, credible Prize$Fight criteria, and fighter-vetted partner campaigns lead to more **$FIGHT-denominated entries, stakes, purchases, and burns**. Those interactions generate fees that flow to the DAO, which—per policy—allocates a share to **token and ecosystem support** (DAO-directed programs to strengthen the token) and a share to growth programs (fueling the next wave of users and utilities). Partner demand for FP distribution creates direct burn pressure as projects burn $FIGHT to access the Fight.ID community. In short, the Athlete Council raises product-market fit with fighters and their fanbases, which increases throughput across all $FIGHT sinks and strengthens the token's value loop over time.
 
 ---
 
 ## Treasury Policy (Expanded)
 
-Net revenues from $FIGHT-denominated utilities—partner burns (projects burning $FIGHT for FP), community memberships and upgrades, prediction market fees (via licensed partners), merch/ticket rails, FightGear royalties, Prize$Fight protocol fees, and partner revenue-shares—flow to the **DAO treasury**. Under published policies, the DAO allocates these proceeds to:
+Net revenues from $FIGHT-denominated utilities—partner burns (projects burning $FIGHT for FP), licensed digital collectibles (UFC Strike primary sales, platform fees, secondary royalties), community memberships and upgrades, partner-operated utilities (including prediction markets where DAO-authorized), merch/ticket rails, FightGear royalties, Prize$Fight protocol fees, and partner revenue-shares—flow to the **DAO treasury**. Under published policies, the DAO allocates these proceeds to:
 
 - **Token and ecosystem support** through DAO-directed treasury programs
 - **Ecosystem grants** (builders, fighters, creators) with milestone-based disbursements and clawbacks
@@ -166,7 +167,7 @@ Open, auditable governance builds trust with **fans, fighters, partners, and reg
 
 ### How value accrues to $FIGHT (Governance Context)
 
-Rational treasury management ties **real, recurring revenues** to **token support programs** and to the **growth programs** that create the next wave of usage. As prediction markets, communities, and commerce rails scale, fee throughput in $FIGHT increases; the DAO allocates that throughput strategically between ecosystem support and higher utility (grants, liquidity, partnerships). Because token holders ultimately approve these policies, improvements to value capture feed back into $FIGHT itself, reinforcing the token's role as the economic backbone of the ecosystem.
+Rational treasury management ties **real, recurring revenues** to **token support programs** and to the **growth programs** that create the next wave of usage. As licensed drops, communities, partner-operated utilities (including DAO-authorized prediction markets), and commerce rails scale, fee throughput in $FIGHT increases; the DAO allocates that throughput strategically between ecosystem support and higher utility (grants, liquidity, partnerships). Because token holders ultimately approve these policies, improvements to value capture feed back into $FIGHT itself, reinforcing the token's role as the economic backbone of the ecosystem.
 
 ---
 

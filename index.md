@@ -24,7 +24,9 @@ order: 100000
 - **Holding $FIGHT grants access** to premium fight experiences, exclusive content, and platform features.
 - **Governance participation** through token-holder voting on ecosystem priorities, treasury allocations, and protocol parameters.
 - **Flagship: Partner Ecosystem Access** — projects burn $FIGHT to acquire FP that they distribute through quests, incentivizing participation within the Fight.ID community and creating a direct value loop between ecosystem activity and token demand.
-- **Fighter communities, merchandise rails, prediction markets (via licensed partners), and event-driven rewards** channel ecosystem activity through transparent, DAO-governed fee flows and treasury programs.
+- **Licensed digital collectibles (UFC Strike), fighter communities, merchandise rails, partner-operated utilities (including prediction markets where DAO-authorized), and event-driven rewards** channel ecosystem activity through transparent, DAO-governed fee flows and treasury programs.
+
+**Proven Revenue Foundation:** Fight extends the UFC Strike digital collectibles business developed by Concept Labs, which has generated **$20M+ in primary sales**, onboarded **100,000+ unique wallets**, and minted **2M+ licensed collectibles**. Drops are synchronized to UFC's event calendar, creating predictable revenue windows through primary sales, platform fees, and secondary royalties. This is not speculative—it is operational, licensed, and revenue-positive.
 
 ## Why this matters
 
