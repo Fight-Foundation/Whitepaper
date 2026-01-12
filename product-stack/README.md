@@ -2,6 +2,7 @@
 label: Product Stack
 icon: stack
 expanded: true
+order: 600
 ---
 
 # Product Stack: Identity, Reputation, Ownership
