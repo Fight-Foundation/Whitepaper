@@ -45,7 +45,7 @@ The initial mix supports stable market access and minimizes early unlock pressur
 ### Advisors — 4.0% (400,000,000 $FIGHT)
 
 **Release schedule:** 12-month lockup, then 1/18 monthly over 18 months.  
-**Administration:** Allocations are administered through **FightFi Inc.**  
+**Administration:** Allocations are administered through **FIGHT Foundation**  
 **Rationale:** Strategic partners and advisors are compensated for distribution, listings, and ecosystem growth support, with long-term vesting that prevents early liquidity pressure.
 
 ---
