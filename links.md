@@ -30,7 +30,7 @@ This page aggregates official resources, announcements, partnerships, and commun
 
 ## UFC Partnership Announcements
 
-- **UFC × Fight.ID Collaboration:** https://www.ufc.com/news/ufc-and-fightid-team-unite-mma-and-web3-communities
+- **UFC × Fight.ID Collaboration:** https://coinmarketcap.com/community/articles/68c9758b2b7d9874459a321a/
 - **UFC × Concept Labs Partnership:** https://www.ufc.com/news/ufc-and-concept-labs-announce-multi-year-partnership-publish-ufc-strike-digital-collectibles
 
 ---
