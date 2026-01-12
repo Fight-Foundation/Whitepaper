@@ -29,7 +29,7 @@ The initial mix supports stable market access and minimizes early unlock pressur
 
 ### Community — 57.0% (5,700,000,000 $FIGHT)
 
-**Release schedule:** 15.5% at TGE, 4% to treasury at month 1, then 1/48 of the remainder monthly over 48 months.  
+**Release schedule:** 15.5% at TGE, 4.78% to treasury at month 1, then 1/47 of the remainder monthly over 48 months.  
 **Purpose:** Airdrops, staking rewards, ecosystem grants, and community programs to engage fans, fighters, and builders.  
 **Rationale:** The large community allocation ensures rewards can be distributed across multiple seasons, aligned with UFC's fight-week cadence and ongoing product launches. All unassigned tokens will be assigned to the Community treasury.
 
@@ -37,7 +37,7 @@ The initial mix supports stable market access and minimizes early unlock pressur
 
 ### Core Team — 15.0% (1,500,000,000 $FIGHT)
 
-**Release schedule:** 12-month lockup, then 1/18 monthly over 18 months.  
+**Release schedule:** 12-month lockup, then 1/24 monthly over 24 months.  
 **Rationale:** The one-year lockup ensures alignment with multi-season delivery and avoids short-term supply shocks. Token vesting follows published schedules governed by DAO transparency standards.
 
 ---
@@ -45,14 +45,14 @@ The initial mix supports stable market access and minimizes early unlock pressur
 ### Advisors — 4.0% (400,000,000 $FIGHT)
 
 **Release schedule:** 12-month lockup, then 1/18 monthly over 18 months.  
-**Administration:** Allocations are administered through **FIGHT Foundation**  
+**Administration:** Allocations are administered through **FIGHT Foundation**.  
 **Rationale:** Strategic partners and advisors are compensated for distribution, listings, and ecosystem growth support, with long-term vesting that prevents early liquidity pressure.
 
 ---
 
 ### Liquidity — 6.5% (650,000,000 $FIGHT)
 
-**Release schedule:** 4% of total supply at TGE (400,000,000 $FIGHT), 2.5% of total supply (250,000,000 $FIGHT) released linearly over 12 months starting month 1.  
+**Release schedule:** 4% of total supply at TGE (400,000,000 $FIGHT), 2.5% of total supply (250,000,000 $FIGHT) released after 12 month lockup.  
 **Rationale:** Initial liquidity at TGE ensures accessible entry points for fans and ecosystem participants while reducing slippage. Linear release over the first 12 months supports sustained market depth as the ecosystem matures and trading volume grows.
 
 ---
