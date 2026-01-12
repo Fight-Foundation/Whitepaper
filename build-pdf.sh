@@ -18,19 +18,18 @@ pandoc \
   -V toccolor=gray \
   --metadata title="Fight Whitepaper" \
   --metadata subtitle="Access Token for Combat Sports" \
-  --metadata date="January 11, 2026" \
-  index.md \
+  --metadata date="January 12, 2026" \
   executive-summary.md \
   ufc-partnership.md \
-  product-stack/README.md \
   product-stack/fightid.md \
   product-stack/fp-points.md \
   product-stack/fight-token.md \
-  tokenomics.md \
+  roadmap.md \
   utilities.md \
   governance.md \
-  roadmap.md \
+  tokenomics.md \
   token-tech-details.md \
+  links.md \
   disclaimer.md \
   -o Fight-Whitepaper.pdf
 

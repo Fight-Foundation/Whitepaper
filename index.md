@@ -8,6 +8,8 @@ order: 100000
 
 **Access Token for Combat Sports**
 
+[한국어 버전 보기](/kr/) | [View in Korean](/kr/)
+
 ---
 
 ## Executive Summary
