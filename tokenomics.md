@@ -29,7 +29,7 @@ The initial mix supports stable market access and minimizes early unlock pressur
 
 ### Community — 57.0% (5,700,000,000 $FIGHT)
 
-**Release schedule:** 15.5% at TGE, 4.78% to treasury at month 1, then 1/47 of the remainder monthly over 48 months.  
+**Release schedule:** 15.5% at TGE, 4.78% to treasury at month 1, then 1/47 of the remainder monthly over 47 months.  
 **Purpose:** Airdrops, staking rewards, ecosystem grants, and community programs to engage fans, fighters, and builders.  
 **Rationale:** The large community allocation ensures rewards can be distributed across multiple seasons, aligned with UFC's fight-week cadence and ongoing product launches. All unassigned tokens will be assigned to the Community treasury.
 
@@ -52,15 +52,15 @@ The initial mix supports stable market access and minimizes early unlock pressur
 
 ### Liquidity — 6.5% (650,000,000 $FIGHT)
 
-**Release schedule:** 4% of total supply at TGE (400,000,000 $FIGHT), 2.5% of total supply (250,000,000 $FIGHT) released after 12 month lockup.  
-**Rationale:** Initial liquidity at TGE ensures accessible entry points for fans and ecosystem participants while reducing slippage. Linear release over the first 12 months supports sustained market depth as the ecosystem matures and trading volume grows.
+**Release schedule:** 4% of total supply at TGE (400,000,000 $FIGHT), 2.5% of total supply (250,000,000 $FIGHT) released after 12-month lockup.  
+**Rationale:** Initial liquidity at TGE ensures accessible entry points for fans and ecosystem participants while reducing slippage. Remaining release after 12 month lockup supports sustained market depth as the ecosystem matures and trading volume grows.
 
 ---
 
 ### Investors — 17.5% (1,750,000,000 $FIGHT)
 
 **Release schedule:** 12-month lockup, then 1/18 monthly over 18 months.  
-**Administration:** Allocations are administered through **FightFi Inc.**  
+**Administration:** Allocations are administered through **Fight Foundation**.
 **Rationale:** Long-term vesting aligns capital partners with sustained growth, product maturity, and governance milestones.
 
 ---
