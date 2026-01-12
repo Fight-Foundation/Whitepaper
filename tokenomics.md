@@ -64,8 +64,7 @@ The initial mix supports stable market access and minimizes early unlock pressur
 **Rationale:** Long-term vesting aligns capital partners with sustained growth, product maturity, and governance milestones.
 
 ---
-
-![](assets/images/token_charts.png)
+<img width="1207" height="606" alt="image" src="https://github.com/user-attachments/assets/98a8c943-02fc-4234-a96c-3792f6704672" />
 
 ---
 
