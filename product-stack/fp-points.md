@@ -7,7 +7,7 @@ icon: trophy
 
 ## What it is
 
-FP (Fighting Force) points are non-transferable reputation. Fans earn FP by completing quests (often funded by projects that burn $FIGHT to acquire FP), participating in events, contributing content and governance, engaging with licensed drops, and performing in partner-operated challenges (where DAO-authorized). FP is intentionally not a tradable asset; it is a scoreboard of meaningful participation tied to a user's FightID. FP unlocks tiers, gates premium experiences, and boosts staking multipliers in fighter communities and ecosystem programs.
+FP (Fighting Points) are non-transferable reputation. Fans earn FP by completing quests (often funded by projects that burn $FIGHT to acquire FP), participating in events, contributing content and governance, engaging with licensed drops, and performing in partner-operated challenges (where DAO-authorized). FP is intentionally not a tradable asset; it is a scoreboard of meaningful participation tied to a user's FightID. FP unlocks tiers, gates premium experiences, and boosts staking multipliers in fighter communities and ecosystem programs.
 
 ## Why it matters
 
