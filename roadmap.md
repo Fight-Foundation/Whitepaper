@@ -54,6 +54,8 @@ We **scale Fighter Communities** with **dynamic entry pricing** and **member div
 
 **MMA Gym Drops (Q2 Exploratory):** Physical-to-digital funnel leveraging gyms as real-world distribution nodes and community anchors. Gym-specific digital collectibles, FP multipliers, and localized access privileges create authentic, grassroots adoption with strong defensibility versus purely digital campaigns. Gyms act as trusted onboarding environments embedded in combat sports culture.
 
+**Collaboration with prediction market platforms (Q2–Q3 2026):** Explore partnerships and technical alignment with compliant prediction market providers. Focus on co-marketing, audience cross-over, and interoperability where appropriate.
+
 **Why this matters:** Communities convert casual engagement into durable membership with real skin in the game, and apparel acts as a viral surface that reaches beyond crypto. Telegram, consumer IP, and gym drops diversify distribution channels and audience demographics, reducing reliance on crypto-native users. New league and partner surfaces multiply places where identity, reputation, and ownership matter.
 
 **How value accrues to $FIGHT:** Community stakes lock supply and generate program fees; FightGear purchases and royalties can be denominated in $FIGHT; diversified drops drive Fight.ID creation and downstream conversion into paid utilities; new integrations add fresh sinks and revenue-share streams that route back to the DAO for **treasury allocation** and ecosystem grants.

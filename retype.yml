@@ -11,9 +11,6 @@ branding:
     accent: "#FF4001"
 
 links:
-  - text: 한국어
-    link: /kr/
-    icon: globe
   - text: GitHub
     link: https://github.com/Fight-Foundation/Whitepaper
     icon: mark-github

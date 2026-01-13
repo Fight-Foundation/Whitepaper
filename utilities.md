@@ -43,21 +43,7 @@ On-chain fan clubs requiring **$FIGHT stakes** for membership. Each fighter's co
 
 ---
 
-## 4. Partner-Operated Utilities (DAO-Authorized)
-
-### Prediction Markets
-
-**Fantasy-style games** (not wagering on fight results) operated by licensed partners subject to DAO authorization. Partners may offer $FIGHT-based entry to skill-based challenges covering MMA culture: card announcements, walkout aesthetics, media moments, training camps, and creator content.
-
-Entries scored against objective, pre-published resolution sources. Fans compete in seasonal leaderboards, club tournaments, and creator-hosted games rewarding high-FP performance.
-
-**Partner model:** Licensed operators build and maintain prediction products; Fight ecosystem provides distribution, identity layer (FightID), and reputation system (FP). DAO authorizes partner integrations and reviews fee structures.
-
-**Value accrual:** Maker/taker/settlement fees collected in $FIGHT per partner agreements, with revenue-share routed to DAO treasury for ecosystem support, liquidity, and grants. Seasonal mechanics increase entry frequency. Partners may also acquire FP through permissionless staking to distribute as rewards.
-
----
-
-## 5. Additional Utility Surfaces
+## 4. Additional Utility Surfaces
 
 ### FightGear
 
@@ -112,7 +98,7 @@ All revenue denominated in $FIGHT where supported, with programmatic flows to DA
 
 ---
 
-## Revenue Model & Value Routing
+## 5. Revenue Model & Value Routing
 
 All utility surfaces generate $FIGHT-denominated fees flowing to the DAO treasury under transparent policies.
 
@@ -120,7 +106,6 @@ All utility surfaces generate $FIGHT-denominated fees flowing to the DAO treasur
 |---------|----------------|---------|
 | **Licensed Drops (UFC Strike)** | Primary sales, platform fees, secondary royalties | Event-synchronized (fight weeks) |
 | **Partner Ecosystem Access** | $FIGHT burns for FP distribution | Ongoing |
-| **Prediction Markets (Partner-Operated)** | Revenue-share fees per partner agreements | Weekly (fight-week) |
 | **Fighter Communities** | Join/upgrade fees, tournaments | Ongoing |
 | **FightGear** | Sales, royalties, holder discounts | Event and drop cycles |
 | **Prize$Fight** | Protocol fee on funding & entries | Event-based |

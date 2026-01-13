@@ -152,7 +152,7 @@ FIGHT token implements multi-signature governance for enhanced security and dece
 - Token Transfer to Multisig: `5AGrL5Rm8sQQJnbVHYUVUAJZcYqJcEgNnyhkFiSXuXPy7iKfnMM28YjoPBEGESgHnNd5HvbbXzdJbkRhSy3aXVt6`
 
 **BSC:**
-- Contract Deployment: TBD
+- Contract Deployment: November 2025
 - Ownership Transfer: `0xa3f30a326d76c93bd872e501b69aa2a9e67867adc084bb3b38d1ca898c124124` (Block 67808442)
 
 ---

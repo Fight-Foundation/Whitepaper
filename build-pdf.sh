@@ -16,6 +16,7 @@ pandoc \
   -V linkcolor=orange \
   -V urlcolor=orange \
   -V toccolor=gray \
+  --include-in-header=latex/emoji-support.tex \
   --metadata title="Fight Whitepaper" \
   --metadata subtitle="Access Token for Combat Sports" \
   --metadata date="January 12, 2026" \
