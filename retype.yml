@@ -14,6 +14,15 @@ links:
   - text: GitHub
     link: https://github.com/Fight-Foundation/Whitepaper
     icon: mark-github
+  - text: English
+    link: /
+    icon: globe
+  - text: Français
+    link: /fr/
+    icon: globe
+  - text: 한국어
+    link: /kr/
+    icon: globe
 
 footer:
   copyright: "&copy; Copyright {{ year }}. Fight Foundation. All rights reserved."
