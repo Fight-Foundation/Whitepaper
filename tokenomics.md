@@ -7,7 +7,7 @@ icon: graph
 
 ## Overview and Supply
 
-$FIGHT is a Solana (SPL) access token with a **fixed maximum supply of 10,000,000,000 tokens**. Circulating supply at TGE is expected to be **approximately 19.50% (1,950,000,000 $FIGHT)**, with all other tokens locked and vesting according to the schedules below.  
+$FIGHT is a Solana (SPL) access token with a **fixed maximum supply of 10,000,000,000 tokens**. Circulating supply at TGE is expected to be **approximately 20.50% (2,050,000,000 $FIGHT)**, with all other tokens locked and vesting according to the schedules below.  
 
 This structure provides transparency around token allocation while ensuring long-term alignment between community participants, contributors, and partners.  
 
@@ -17,7 +17,7 @@ This structure provides transparency around token allocation while ensuring long
 
 Circulating tokens at launch consist of:  
 - **Community**: 15.5% of total supply (1,550,000,000 $FIGHT)  
-- **Liquidity**: 4% of total supply (400,000,000 $FIGHT)  
+- **Liquidity**: 5% of total supply (500,000,000 $FIGHT)  
 
 All other categories (Team, Investors, Advisors, etc.) begin fully locked. This design ensures that early supply is directed toward community participation and liquidity, not early unlocks. All unassigned tokens will be assigned to the Community treasury.
 
@@ -52,7 +52,7 @@ The initial mix supports stable market access and minimizes early unlock pressur
 
 ### Liquidity — 6.5% (650,000,000 $FIGHT)
 
-**Release schedule:** 4% of total supply at TGE (400,000,000 $FIGHT), 2.5% of total supply (250,000,000 $FIGHT) released after 12-month lockup.  
+**Release schedule:** 5% of total supply at TGE (500,000,000 $FIGHT), 1.5% of total supply (150,000,000 $FIGHT) released after 12-month lockup.  
 **Rationale:** Initial liquidity at TGE ensures accessible entry points for fans and ecosystem participants while reducing slippage. Remaining release after 12 month lockup supports sustained market depth as the ecosystem matures and trading volume grows.
 
 ---
