@@ -28,7 +28,7 @@ pandoc \
   --include-in-header=/tmp/french-header.tex \
   --metadata title="Fight Whitepaper" \
   --metadata subtitle="Jeton d'Accès pour les Sports de Combat" \
-  --metadata date="12 janvier 2026" \
+  --metadata date="$(date '+%d %B %Y') - $(git rev-parse --short HEAD)" \
   fr/executive-summary.md \
   fr/ufc-partnership.md \
   fr/product-stack/fightid.md \

@@ -19,7 +19,7 @@ pandoc \
   --include-in-header=latex/emoji-support.tex \
   --metadata title="Fight Whitepaper" \
   --metadata subtitle="Access Token for Combat Sports" \
-  --metadata date="January 12, 2026" \
+  --metadata date="$(date '+%B %d, %Y') - $(git rev-parse --short HEAD)" \
   executive-summary.md \
   ufc-partnership.md \
   product-stack/fightid.md \

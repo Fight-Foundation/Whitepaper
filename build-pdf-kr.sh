@@ -29,7 +29,7 @@ pandoc \
   --include-in-header=/tmp/korean-header.tex \
   --metadata title="Fight 백서" \
   --metadata subtitle="격투 스포츠를 위한 액세스 토큰" \
-  --metadata date="2026년 1월 12일" \
+  --metadata date="$(date '+%Y년 %m월 %d일') - $(git rev-parse --short HEAD)" \
   kr/executive-summary.md \
   kr/ufc-partnership.md \
   kr/product-stack/fightid.md \
