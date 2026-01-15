@@ -65,7 +65,7 @@ The initial mix supports stable market access and minimizes early unlock pressur
 
 ---
 
-<img width="970" height="491" alt="image" src="https://github.com/user-attachments/assets/67ef518f-6d5f-42a2-ab52-43aea351be6f" />
+![Token Allocation Charts](assets/images/token_charts.png)
 
 ---
 

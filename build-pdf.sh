@@ -5,7 +5,7 @@
 cd "$(dirname "$0")"
 
 pandoc \
-  --resource-path=. \
+  --resource-path=.:assets:assets/images \
   --toc \
   --toc-depth=3 \
   --pdf-engine=xelatex \

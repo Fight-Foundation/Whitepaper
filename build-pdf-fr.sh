@@ -13,7 +13,7 @@ cat > /tmp/french-header.tex << 'EOF'
 EOF
 
 pandoc \
-  --resource-path=. \
+  --resource-path=.:assets:assets/images \
   --toc \
   --toc-depth=3 \
   --pdf-engine=xelatex \

@@ -1,15 +1,6 @@
-% Pandoc LaTeX header to add emoji-capable fallbacks
+% Pandoc LaTeX header for font setup
 \usepackage{fontspec}
-% Use Latin Modern, but fall back to emoji-capable fonts for missing glyphs
-\setmainfont{Latin Modern Roman}[
-  FallbackFamilies={Noto Color Emoji, Noto Emoji, DejaVu Sans}
-]
-\setsansfont{Latin Modern Sans}[
-  FallbackFamilies={Noto Color Emoji, Noto Emoji, DejaVu Sans}
-]
-\setmonofont{Latin Modern Mono}[
-  FallbackFamilies={Noto Color Emoji, Noto Emoji, DejaVu Sans}
-]
-% Optional: direct emoji font binding for macros
-% Requires XeLaTeX with HarfBuzz rendering to support color emoji
-\newfontfamily\emoji{Noto Color Emoji}[Renderer=HarfBuzz]
+% Use Latin Modern fonts
+\setmainfont{Latin Modern Roman}
+\setsansfont{Latin Modern Sans}
+\setmonofont{Latin Modern Mono}
