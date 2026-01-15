@@ -10,7 +10,7 @@ The Fight ecosystem integrates multiple utility surfaces that turn combat-sports
 
 ---
 
-## 1. Partner Ecosystem Access (Flagship)
+## Partner Ecosystem Access (Flagship)
 
 **Projects burn $FIGHT to acquire FP** that they distribute through quests, campaigns, and challenges to incentivize the Fight.ID community. This B2B model creates direct demand for $FIGHT as ecosystem partners pay to access the engaged fanbase. Projects use FP rewards to drive user actions—completing quests, engaging with content, participating in events—creating a flywheel where partner demand fuels token burns and fan participation earns reputation.
 
@@ -20,7 +20,7 @@ The Fight ecosystem integrates multiple utility surfaces that turn combat-sports
 
 ---
 
-## 2. Access & Governance
+## Access & Governance
 
 **Holding $FIGHT unlocks premium experiences:** exclusive fight content, early access to features, platform perks, and priority in community programs. Token holders also participate in governance, voting on treasury allocations, emissions schedules, ecosystem grants, and protocol parameters through the DAO.
 
@@ -30,7 +30,7 @@ The Fight ecosystem integrates multiple utility surfaces that turn combat-sports
 
 ---
 
-## 3. Fighter Communities & Staking
+## Fighter Communities & Staking
 
 On-chain fan clubs requiring **$FIGHT stakes** for membership. Each fighter's community offers exclusive content, AMAs, watch-alongs, merch drops, licensed collectible access, access to partner-operated tournaments (where DAO-authorized), and Prize\$Fight bounties. Membership maintained through active stakes; upgrades via increased stake or higher FP.
 
@@ -43,7 +43,7 @@ On-chain fan clubs requiring **$FIGHT stakes** for membership. Each fighter's co
 
 ---
 
-## 4. Additional Utility Surfaces
+## Additional Utility Surfaces
 
 ### FightGear
 
@@ -98,7 +98,7 @@ All revenue denominated in $FIGHT where supported, with programmatic flows to DA
 
 ---
 
-## 5. Revenue Model & Value Routing
+## Revenue Model & Value Routing
 
 All utility surfaces generate $FIGHT-denominated fees flowing to the DAO treasury under transparent policies.
 
