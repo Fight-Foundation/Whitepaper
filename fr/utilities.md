@@ -10,7 +10,7 @@ L'écosystème Fight intègre de multiples surfaces d'utilité qui transforment 
 
 ---
 
-## 1. Accès à l'Écosystème Partenaire (Produit Phare)
+## Accès à l'Écosystème Partenaire (Produit Phare)
 
 **Les projets brûlent des $FIGHT pour acquérir des FP** qu'ils distribuent via des quêtes, campagnes et défis pour inciter la communauté Fight.ID. Ce modèle B2B crée une demande directe pour $FIGHT car les partenaires de l'écosystème paient pour accéder à la base de fans engagée. Les projets utilisent les récompenses FP pour conduire les actions utilisateurs — compléter des quêtes, interagir avec le contenu, participer aux événements — créant un volant où la demande partenaire alimente les brûlages de jetons et la participation des fans génère de la réputation.
 
@@ -20,7 +20,7 @@ L'écosystème Fight intègre de multiples surfaces d'utilité qui transforment 
 
 ---
 
-## 2. Accès & Gouvernance
+## Accès & Gouvernance
 
 **Détenir des $FIGHT débloque des expériences premium :** contenu de combat exclusif, accès anticipé aux fonctionnalités, avantages de plateforme et priorité dans les programmes communautaires. Les détenteurs de jetons participent également à la gouvernance, votant sur les allocations de trésorerie, les calendriers d'émission, les subventions de l'écosystème et les paramètres du protocole via la DAO.
 
@@ -30,7 +30,7 @@ L'écosystème Fight intègre de multiples surfaces d'utilité qui transforment 
 
 ---
 
-## 3. Communautés de Combattants & Staking
+## Communautés de Combattants & Staking
 
 Clubs de fans on-chain nécessitant des **stakes en $FIGHT** pour l'adhésion. Chaque communauté de combattant offre du contenu exclusif, des AMAs, des watch-alongs, des drops de marchandises, l'accès aux objets de collection sous licence, l'accès aux tournois opérés par des partenaires (si autorisés par la DAO) et des primes Prize\$Fight. L'adhésion est maintenue via des stakes actifs ; les mises à niveau via un stake accru ou un FP plus élevé.
 
@@ -43,7 +43,7 @@ Clubs de fans on-chain nécessitant des **stakes en $FIGHT** pour l'adhésion. C
 
 ---
 
-## 4. Surfaces d'Utilité Additionnelles
+## Surfaces d'Utilité Additionnelles
 
 ### FightGear
 
@@ -98,7 +98,7 @@ Tous les revenus libellés en $FIGHT où supporté, avec des flux programmatique
 
 ---
 
-## 5. Modèle de Revenus & Routage de Valeur
+## Modèle de Revenus & Routage de Valeur
 
 Toutes les surfaces d'utilité génèrent des frais libellés en $FIGHT qui vont à la trésorerie de la DAO selon des politiques transparentes.
 
