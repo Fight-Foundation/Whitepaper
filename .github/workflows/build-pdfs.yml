@@ -1,0 +1,56 @@
+name: Build PDFs
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - '**.md'
+      - 'assets/**'
+      - 'latex/**'
+      - 'build-pdf*.sh'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y \
+            pandoc \
+            texlive-xetex \
+            texlive-fonts-recommended \
+            texlive-latex-recommended \
+            texlive-latex-extra \
+            texlive-lang-cjk \
+            fonts-lmodern \
+            lmodern \
+            fonts-unfonts-core
+      
+      - name: Build English PDF
+        run: bash build-pdf.sh
+      
+      - name: Build French PDF
+        run: bash build-pdf-fr.sh
+      
+      - name: Build Korean PDF
+        run: bash build-pdf-kr.sh
+      
+      - name: Commit PDFs
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add *.pdf
+          git diff --quiet && git diff --staged --quiet || git commit -m "Auto-build PDFs [skip ci]"
+      
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}

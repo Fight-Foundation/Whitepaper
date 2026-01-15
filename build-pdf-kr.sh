@@ -8,7 +8,7 @@ cd "$(dirname "$0")"
 cat > /tmp/korean-header.tex << 'EOF'
 \usepackage{fontspec}
 \usepackage{xeCJK}
-\setCJKmainfont{Noto Sans CJK KR}
+\setCJKmainfont{UnBatang}
 \setmainfont{DejaVu Sans}
 \setsansfont{DejaVu Sans}
 \setmonofont{DejaVu Sans Mono}
