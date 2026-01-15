@@ -32,7 +32,7 @@ L'écosystème Fight intègre de multiples surfaces d'utilité qui transforment 
 
 ## 3. Communautés de Combattants & Staking
 
-Clubs de fans on-chain nécessitant des **stakes en $FIGHT** pour l'adhésion. Chaque communauté de combattant offre du contenu exclusif, des AMAs, des watch-alongs, des drops de marchandises, l'accès aux objets de collection sous licence, l'accès aux tournois opérés par des partenaires (si autorisés par la DAO) et des primes Prize$Fight. L'adhésion est maintenue via des stakes actifs ; les mises à niveau via un stake accru ou un FP plus élevé.
+Clubs de fans on-chain nécessitant des **stakes en $FIGHT** pour l'adhésion. Chaque communauté de combattant offre du contenu exclusif, des AMAs, des watch-alongs, des drops de marchandises, l'accès aux objets de collection sous licence, l'accès aux tournois opérés par des partenaires (si autorisés par la DAO) et des primes Prize\$Fight. L'adhésion est maintenue via des stakes actifs ; les mises à niveau via un stake accru ou un FP plus élevé.
 
 **Mécaniques principales :**
 - **Prix d'entrée dynamique :** Les stakes augmentent à mesure que l'adhésion croît, récompensant les premiers supporters.
@@ -108,7 +108,7 @@ Toutes les surfaces d'utilité génèrent des frais libellés en $FIGHT qui vont
 | **Accès Écosystème Partenaire** | Brûlages $FIGHT pour distribution FP | En continu |
 | **Communautés de Combattants** | Frais d'adhésion/mise à niveau, tournois | En continu |
 | **FightGear** | Ventes, royalties, réductions détenteurs | Cycles événementiels et drops |
-| **Prize$Fight** | Frais de protocole sur financement & entrées | Basé sur les événements |
+| **Prize\$Fight** | Frais de protocole sur financement & entrées | Basé sur les événements |
 | **Partenaires FightHub** | Partage de revenus des intégrations | Variable |
 | **Billetterie & Marchandises** | Frais de transaction, parts partenaires | Cycles événementiels |
 

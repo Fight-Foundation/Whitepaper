@@ -7,7 +7,7 @@ icon: credit-card
 
 ## What it is
 
-$FIGHT is the Solana-based access token that enables dual access across the Fight ecosystem: **projects burn $FIGHT to access the authenticated Fight.ID community**, and **fans hold $FIGHT to access premium experiences, governance rights, and platform features**. It unifies identity-driven access, reputation-driven status, and the utilities both partners and fans care about—partner distribution campaigns, governance participation, licensed digital collectibles, fighter communities, partner-operated utilities (including prediction markets where DAO-authorized), Prize$Fight bounties, and FightGear commerce.
+$FIGHT is the Solana-based access token that enables dual access across the Fight ecosystem: **projects burn $FIGHT to access the authenticated Fight.ID community**, and **fans hold $FIGHT to access premium experiences, governance rights, and platform features**. It unifies identity-driven access, reputation-driven status, and the utilities both partners and fans care about—partner distribution campaigns, governance participation, licensed digital collectibles, fighter communities, partner-operated utilities (including prediction markets where DAO-authorized), Prize\$Fight bounties, and FightGear commerce.
 
 ## Why it matters
 

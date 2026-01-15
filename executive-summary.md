@@ -12,7 +12,7 @@ hidden: true
 2. **Reputation (FP points)** — non-transferable "Fighting Points" that reflect participation and unlock ecosystem utility.  
 3. **Ownership ($FIGHT)** — a Solana-based access token that enables dual access: projects burn $FIGHT to access the Fight.ID community; fans hold $FIGHT to access premium experiences, governance rights, and platform features.  
 
-**Fight.ID is a partner of the UFC.** The UFC and Fight.ID have publicly announced a multi-year collaboration to grow the UFC's digital fanbase with loyalty experiences, Prize$Fight fighter bonuses, and FightGear premium apparel.
+**Fight.ID is a partner of the UFC.** The UFC and Fight.ID have publicly announced a multi-year collaboration to grow the UFC's digital fanbase with loyalty experiences, Prize\$Fight fighter bonuses, and FightGear premium apparel.
 
 **Core Utilities:**
 - **Holding $FIGHT grants access** to premium fight experiences, exclusive content, and platform features.

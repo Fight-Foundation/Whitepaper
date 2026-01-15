@@ -7,7 +7,7 @@ icon: credit-card
 
 ## Ce que c'est
 
-$FIGHT est le jeton d'accès basé sur Solana qui permet un double accès à travers l'écosystème Fight : **les projets brûlent des $FIGHT pour accéder à la communauté authentifiée Fight.ID**, et **les fans détiennent des $FIGHT pour accéder aux expériences premium, aux droits de gouvernance et aux fonctionnalités de la plateforme**. Il unifie l'accès piloté par l'identité, le statut piloté par la réputation, et les utilités qui intéressent à la fois les partenaires et les fans — campagnes de distribution partenaires, participation à la gouvernance, objets de collection numériques sous licence, communautés de combattants, utilités opérées par des partenaires (y compris les marchés de prédiction autorisés par la DAO), primes Prize$Fight et commerce FightGear.
+$FIGHT est le jeton d'accès basé sur Solana qui permet un double accès à travers l'écosystème Fight : **les projets brûlent des $FIGHT pour accéder à la communauté authentifiée Fight.ID**, et **les fans détiennent des $FIGHT pour accéder aux expériences premium, aux droits de gouvernance et aux fonctionnalités de la plateforme**. Il unifie l'accès piloté par l'identité, le statut piloté par la réputation, et les utilités qui intéressent à la fois les partenaires et les fans — campagnes de distribution partenaires, participation à la gouvernance, objets de collection numériques sous licence, communautés de combattants, utilités opérées par des partenaires (y compris les marchés de prédiction autorisés par la DAO), primes Prize\$Fight et commerce FightGear.
 
 ## Pourquoi c'est important
 

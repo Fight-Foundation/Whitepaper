@@ -12,7 +12,7 @@ hidden: true
 2. **Réputation (Points FP)** — des "Fighting Points" non-transférables qui reflètent la participation et débloquent les utilités de l'écosystème.
 3. **Propriété ($FIGHT)** — un jeton d'accès basé sur Solana qui permet un double accès : les projets brûlent des $FIGHT pour accéder à la communauté Fight.ID ; les fans détiennent des $FIGHT pour accéder aux expériences premium, aux droits de gouvernance et aux fonctionnalités de la plateforme.
 
-**Fight.ID est partenaire de l'UFC.** L'UFC et Fight.ID ont publiquement annoncé une collaboration pluriannuelle pour développer la base de fans numériques de l'UFC avec des expériences de fidélité, des bonus Prize$Fight pour les combattants et la ligne de vêtements premium FightGear.
+**Fight.ID est partenaire de l'UFC.** L'UFC et Fight.ID ont publiquement annoncé une collaboration pluriannuelle pour développer la base de fans numériques de l'UFC avec des expériences de fidélité, des bonus Prize\$Fight pour les combattants et la ligne de vêtements premium FightGear.
 
 **Utilités Principales :**
 - **Détenir des $FIGHT donne accès** aux expériences de combat premium, au contenu exclusif et aux fonctionnalités de la plateforme.

@@ -32,7 +32,7 @@ The Fight ecosystem integrates multiple utility surfaces that turn combat-sports
 
 ## 3. Fighter Communities & Staking
 
-On-chain fan clubs requiring **$FIGHT stakes** for membership. Each fighter's community offers exclusive content, AMAs, watch-alongs, merch drops, licensed collectible access, access to partner-operated tournaments (where DAO-authorized), and Prize$Fight bounties. Membership maintained through active stakes; upgrades via increased stake or higher FP.
+On-chain fan clubs requiring **$FIGHT stakes** for membership. Each fighter's community offers exclusive content, AMAs, watch-alongs, merch drops, licensed collectible access, access to partner-operated tournaments (where DAO-authorized), and Prize\$Fight bounties. Membership maintained through active stakes; upgrades via increased stake or higher FP.
 
 **Core mechanics:**
 - **Dynamic entry pricing:** Stakes rise as membership grows, rewarding early supporters.
@@ -55,7 +55,7 @@ Premium combat-sports lifestyle brand featuring limited-run capsule drops, fight
 
 ---
 
-### Prize$Fight
+### Prize\$Fight
 
 Programmable prize-pool framework for **fighter bonuses**, **fan challenges**, and **event-based bounties** (e.g., "Finish of the Night," "Fan MVP," "Underdog Upset"). Pools funded by sponsors, community initiatives, or DAO allocations. Disbursed transparently on-chain with **Athlete Council** guidance.
 
@@ -108,7 +108,7 @@ All utility surfaces generate $FIGHT-denominated fees flowing to the DAO treasur
 | **Partner Ecosystem Access** | $FIGHT burns for FP distribution | Ongoing |
 | **Fighter Communities** | Join/upgrade fees, tournaments | Ongoing |
 | **FightGear** | Sales, royalties, holder discounts | Event and drop cycles |
-| **Prize$Fight** | Protocol fee on funding & entries | Event-based |
+| **Prize\$Fight** | Protocol fee on funding & entries | Event-based |
 | **FightHub Partners** | Revenue-share from integrations | Variable |
 | **Ticketing & Merch** | Transaction fees, partner shares | Event cycles |
 

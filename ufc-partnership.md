@@ -7,7 +7,7 @@ icon: shield-check
 
 ## Public announcement and collaboration
 
-The UFC and **Fight.ID** have publicly announced a multi-year collaboration aimed at uniting MMA fans with Web3 experiences built around identity, loyalty, and ownership. The roadmap includes a loyalty layer anchored in Fight.ID, the Prize$Fight bonus program for fighters, and the FightGear premium apparel line. This public validation provides clarity to partners, athletes, and fans that Fight.ID is being developed in concert with the UFC's long-term fan engagement strategy.
+The UFC and **Fight.ID** have publicly announced a multi-year collaboration aimed at uniting MMA fans with Web3 experiences built around identity, loyalty, and ownership. The roadmap includes a loyalty layer anchored in Fight.ID, the Prize\$Fight bonus program for fighters, and the FightGear premium apparel line. This public validation provides clarity to partners, athletes, and fans that Fight.ID is being developed in concert with the UFC's long-term fan engagement strategy.
 
 **Important distinction:** The UFC partnership is with **Fight.ID** (the digital identity and fan engagement platform). **$FIGHT is an access token** built by the Fight Foundation that enables projects to access Fight.ID's authenticated community and enables fans to access premium experiences across the network. The UFC does not endorse $FIGHT or any cryptocurrency.
 

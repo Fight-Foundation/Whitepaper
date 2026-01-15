@@ -125,7 +125,7 @@ The Council advises on fighter-centric utility and experiences end to end:
 - **Licensed digital collectibles:** which Moments resonate with fans, appropriate scarcity tiers, and event-synchronization strategies that respect fighter brand equity.
 - **Fighter communities:** staking tiers, perk structures, membership mechanics, and codes of conduct that promote respectful, long-term engagement.
 - **Content and programming:** formats for AMAs, watch-alongs, training drops, and behind-the-scenes experiences that reward both fighters and committed fans.
-- **Prize$Fight disbursements:** criteria, nomination flows, and transparency standards for bonus awards and event bounties.
+- **Prize\$Fight disbursements:** criteria, nomination flows, and transparency standards for bonus awards and event bounties.
 - **Principles and safety:** upholding **Fight Fair / Fight Together / Fight Through / Fight Forever** in incentive design; championing anti-abuse practices; and recommending swift guardrails when new mechanics create unintended behavior.
 
 ### Why it matters
@@ -138,17 +138,17 @@ Council members are compensated with **streamed token awards** from a DAO-overse
 
 ### Process and accountability
 
-Council recommendations are recorded in public RFCs or proposal threads and routed through the relevant working group (e.g., Product/UX, Treasury, Risk & Integrity). Where budget is required—such as Prize$Fight pool top-ups or new community perk funding—requests move to token-holder vote under standard quorum and timelocks. This keeps fighter input front-and-center while preserving transparent, on-chain control by $FIGHT holders.
+Council recommendations are recorded in public RFCs or proposal threads and routed through the relevant working group (e.g., Product/UX, Treasury, Risk & Integrity). Where budget is required—such as Prize\$Fight pool top-ups or new community perk funding—requests move to token-holder vote under standard quorum and timelocks. This keeps fighter input front-and-center while preserving transparent, on-chain control by $FIGHT holders.
 
 ### How value accrues to $FIGHT
 
-Athlete-guided design improves **participation quality** and **conversion** at every step of the funnel. Better drop designs, more compelling community perks, credible Prize$Fight criteria, and fighter-vetted partner campaigns lead to more **$FIGHT-denominated entries, stakes, purchases, and burns**. Those interactions generate fees that flow to the DAO, which—per policy—allocates a share to **token and ecosystem support** (DAO-directed programs to strengthen the token) and a share to growth programs (fueling the next wave of users and utilities). Partner demand for FP distribution creates direct burn pressure as projects burn $FIGHT to access the Fight.ID community. In short, the Athlete Council raises product-market fit with fighters and their fanbases, which increases throughput across all $FIGHT sinks and strengthens the token's value loop over time.
+Athlete-guided design improves **participation quality** and **conversion** at every step of the funnel. Better drop designs, more compelling community perks, credible Prize\$Fight criteria, and fighter-vetted partner campaigns lead to more **$FIGHT-denominated entries, stakes, purchases, and burns**. Those interactions generate fees that flow to the DAO, which—per policy—allocates a share to **token and ecosystem support** (DAO-directed programs to strengthen the token) and a share to growth programs (fueling the next wave of users and utilities). Partner demand for FP distribution creates direct burn pressure as projects burn $FIGHT to access the Fight.ID community. In short, the Athlete Council raises product-market fit with fighters and their fanbases, which increases throughput across all $FIGHT sinks and strengthens the token's value loop over time.
 
 ---
 
 ## Treasury Policy (Expanded)
 
-Net revenues from $FIGHT-denominated utilities—partner burns (projects burning $FIGHT for FP), licensed digital collectibles (UFC Strike primary sales, platform fees, secondary royalties), community memberships and upgrades, partner-operated utilities (including prediction markets where DAO-authorized), merch/ticket rails, FightGear royalties, Prize$Fight protocol fees, and partner revenue-shares—flow to the **DAO treasury**. Under published policies, the DAO allocates these proceeds to:
+Net revenues from $FIGHT-denominated utilities—partner burns (projects burning $FIGHT for FP), licensed digital collectibles (UFC Strike primary sales, platform fees, secondary royalties), community memberships and upgrades, partner-operated utilities (including prediction markets where DAO-authorized), merch/ticket rails, FightGear royalties, Prize\$Fight protocol fees, and partner revenue-shares—flow to the **DAO treasury**. Under published policies, the DAO allocates these proceeds to:
 
 - **Token and ecosystem support** through DAO-directed treasury programs
 - **Ecosystem grants** (builders, fighters, creators) with milestone-based disbursements and clawbacks

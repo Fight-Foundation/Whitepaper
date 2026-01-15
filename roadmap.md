@@ -24,7 +24,7 @@ During the pre-TGE phase, we publish the full emissions and governance specifica
 
 ## Post-TGE (Near-Term)
 
-Immediately after TGE, **staking** goes live with **FP multipliers** and **leaderboards** so that early adopters see tangible advantages for reputation. We also run the first **Prize$Fight** bounties to reward standout performances and superfans, and we light up **$FIGHT rails for merch and tickets** with UFC-adjacent partners where supported. The **Partner Ecosystem Access** model launches, enabling select projects to burn $FIGHT for FP distribution to the Fight.ID community through quests and campaigns.
+Immediately after TGE, **staking** goes live with **FP multipliers** and **leaderboards** so that early adopters see tangible advantages for reputation. We also run the first **Prize\$Fight** bounties to reward standout performances and superfans, and we light up **$FIGHT rails for merch and tickets** with UFC-adjacent partners where supported. The **Partner Ecosystem Access** model launches, enabling select projects to burn $FIGHT for FP distribution to the Fight.ID community through quests and campaigns.
 
 **Future UFC Strike Gifts Drop:** Following the success of the first **UFC Strike Gifts Drop**, which validated the platform as a **high-reach** surface for rapid Fight.ID creation and low-friction onboarding, the 2026 roadmap aims to establish a **predictable distribution and monetization rhythm**. UFC Strike Gifts Telegram Drops #2, #3, and #4 are tentatively scheduled across Q2, Q3, and Q4 to maintain **consistent engagement** and scale the ecosystem’s geographic footprint in Asia, LATAM, and emerging markets. 
 
