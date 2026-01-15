@@ -7,7 +7,7 @@ icon: graph
 
 ## Vue d'Ensemble et Offre
 
-$FIGHT est un jeton d'accès Solana (SPL) avec une **offre maximale fixe de 10 000 000 000 de jetons**. L'offre en circulation au TGE devrait être d'**environ 20,50 % (2 050 000 000 $FIGHT)**, tous les autres jetons étant verrouillés et acquis selon les calendriers ci-dessous.
+$FIGHT est un jeton d'accès Solana (SPL) avec une **offre maximale fixe de 10 000 000 000 de jetons**. L'offre en circulation au TGE devrait être d'**environ 19,50 % (1 950 000 000 $FIGHT)**, tous les autres jetons étant verrouillés et acquis selon les calendriers ci-dessous.
 
 Cette structure assure la transparence autour de l'allocation des jetons tout en garantissant un alignement à long terme entre les participants de la communauté, les contributeurs et les partenaires.
 
@@ -17,7 +17,7 @@ Cette structure assure la transparence autour de l'allocation des jetons tout en
 
 Les jetons en circulation au lancement se composent de :
 - **Communauté** : 15,5 % de l'offre totale (1 550 000 000 $FIGHT)
-- **Liquidité** : 5 % de l'offre totale (500 000 000 $FIGHT)
+- **Liquidité** : 4 % de l'offre totale (400 000 000 $FIGHT)
 
 Toutes les autres catégories (Équipe, Investisseurs, Conseillers, etc.) commencent entièrement verrouillées. Cette conception garantit que l'offre initiale est dirigée vers la participation communautaire et la liquidité, pas vers des déblocages précoces. Tous les jetons non attribués seront assignés à la trésorerie Communauté.
 
@@ -52,7 +52,7 @@ Le mix initial soutient un accès au marché stable et minimise la pression des 
 
 ### Liquidité — 6,5 % (650 000 000 $FIGHT)
 
-**Calendrier de déblocage :** 5 % de l'offre totale au TGE (500 000 000 $FIGHT), 1,5 % de l'offre totale (150 000 000 $FIGHT) débloqués après un verrouillage de 12 mois.
+**Calendrier de déblocage :** 4 % de l'offre totale au TGE (400 000 000 $FIGHT), 2,5 % de l'offre totale (250 000 000 $FIGHT) débloqués après un verrouillage de 12 mois.
 **Justification :** La liquidité initiale au TGE assure des points d'entrée accessibles pour les fans et les participants de l'écosystème tout en réduisant le slippage. Le déblocage restant après le verrouillage de 12 mois soutient une profondeur de marché durable à mesure que l'écosystème mûrit et que le volume de trading augmente.
 
 ---
