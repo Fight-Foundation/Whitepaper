@@ -4,7 +4,7 @@ icon: zap
 label: Utilité
 ---
 
-# Utilité de l'Écosystème
+# Utilité du Jeton
 
 L'écosystème Fight intègre de multiples surfaces d'utilité qui transforment l'engagement dans les sports de combat en participation récurrente. Ces utilités peuvent être construites par des partenaires ou développées en interne, toutes intégrant le standard Fight : **FightID** (identité), **FP** (réputation) et **$FIGHT** (propriété). Chaque utilité est liée à la cadence événementielle de l'UFC et génère une activité libellée en $FIGHT.
 

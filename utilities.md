@@ -4,7 +4,7 @@ icon: zap
 label: Utility
 ---
 
-# Ecosystem Utility
+# Token Utility
 
 The Fight ecosystem integrates multiple utility surfaces that turn combat-sports engagement into recurring participation. These utilities may be built by partners or developed in-house, all integrating the Fight standard: **FightID** (identity), **FP** (reputation), and **$FIGHT** (ownership). Each utility ties to UFC's event cadence and generates $FIGHT-denominated activity.
 
