@@ -36,6 +36,7 @@ FIGHT는 솔라나와 BNB 스마트 체인(BSC)에 배포된 크로스체인 대
 FIGHT는 신뢰할 수 없는 크로스체인 전송을 위해 LayerZero의 옴니체인 대체 가능 토큰(OFT) 프로토콜을 활용합니다:
 
 **솔라나 컴포넌트:**
+
 - **OFT 프로그램:** `FXnms2y5FUjzxzEaDEnEF54pYWZLteTdKUwQhDbCAUfL`
 - **OFT 스토어:** `8TRG47KgD9KgZaHyKH5CKZRCAhfUAzbqivXV8SZWWhYk`
 - **토큰 에스크로:** `6rZoHSARsboMx1vNesfqd7q1DasgxWs5yivrRJvKaSPe`
@@ -43,6 +44,7 @@ FIGHT는 신뢰할 수 없는 크로스체인 전송을 위해 LayerZero의 옴�
 - **엔드포인트 ID:** 30168 (솔라나 메인넷)
 
 **BSC 컴포넌트:**
+
 - **OFT 컨트랙트:** `0xB2D97C4ed2d0Ef452654F5CAB3da3735B5e6F3ab`
 - **LayerZero 엔드포인트:** `0x1a44076050125825900e736c501f859c50fE728c`
 - **엔드포인트 ID:** 30102 (BSC 메인넷)

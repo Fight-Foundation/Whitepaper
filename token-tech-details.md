@@ -36,6 +36,7 @@ FIGHT is a cross-chain fungible token deployed on Solana and BNB Smart Chain (BS
 FIGHT utilizes LayerZero's Omnichain Fungible Token (OFT) protocol for trustless cross-chain transfers:
 
 **Solana Components:**
+
 - **OFT Program:** `FXnms2y5FUjzxzEaDEnEF54pYWZLteTdKUwQhDbCAUfL`
 - **OFT Store:** `8TRG47KgD9KgZaHyKH5CKZRCAhfUAzbqivXV8SZWWhYk`
 - **Token Escrow:** `6rZoHSARsboMx1vNesfqd7q1DasgxWs5yivrRJvKaSPe`
@@ -43,6 +44,7 @@ FIGHT utilizes LayerZero's Omnichain Fungible Token (OFT) protocol for trustless
 - **Endpoint ID:** 30168 (Solana Mainnet)
 
 **BSC Components:**
+
 - **OFT Contract:** `0xB2D97C4ed2d0Ef452654F5CAB3da3735B5e6F3ab`
 - **LayerZero Endpoint:** `0x1a44076050125825900e736c501f859c50fE728c`
 - **Endpoint ID:** 30102 (BSC Mainnet)
