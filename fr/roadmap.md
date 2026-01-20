@@ -4,7 +4,7 @@ icon: calendar
 label: Feuille de Route
 ---
 
-# Feuille de Route (Synchronisée aux Événements, Distribution d'Abord)
+# Feuille de Route
 
 La feuille de route Fight est construite autour du calendrier des combats UFC et des déploiements de fonctionnalités progressifs qui approfondissent l'utilité, étendent la distribution et renforcent la boucle de valeur du jeton à chaque phase.
 

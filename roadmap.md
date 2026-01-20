@@ -4,7 +4,7 @@ icon: calendar
 label: Roadmap
 ---
 
-# Roadmap (Event-Synchronized, Distribution-First)
+# Roadmap
 
 The Fight roadmap is built around UFC's fight calendar and progressive feature rollouts that deepen utility, expand distribution, and strengthen the token value loop with each phase.
 
