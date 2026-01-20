@@ -63,12 +63,12 @@ UFC's cultural relevance anchors Fight squarely in mainstream sports engagement 
 
 ## How Value Accrues to $FIGHT
 
-UFC-amplified activations translate directly into $FIGHT usage. When fans participate in the ecosystem through quests (funded by projects burning $FIGHT for FP), stake to enter fighter communities, or transact for merch and tickets, they generate on-chain activity and fee flows denominated in $FIGHT. 
+UFC-amplified activations translate directly into $FIGHT usage. When fans participate in the ecosystem through quests (funded by projects using $FIGHT for FP), stake to enter fighter communities, or transact for merch and tickets, they generate on-chain activity and fee flows denominated in $FIGHT. 
 
 The Value Flywheel:
-- **Partner Demand** — Projects burn $FIGHT to acquire FP for distribution
-- **Treasury Policy** — Fees and burns are routed to the DAO treasury under transparent policies
+- **Partner Demand** — Projects use $FIGHT to acquire FP for distribution
+- **Treasury Policy** — Fees are routed to the DAO treasury under transparent policies
 - **Ecosystem Growth** — The DAO deploys net revenues to support the token and fund grants that bring in new users
 
-This creates a closed-loop system: UFC distribution drives engagement; engagement drives fees and burns; fees fund treasury programs; and growth increases the utility and demand for $FIGHT. The more Fight activates around UFC events, the stronger and more predictable this value-accrual flywheel becomes.
+This creates a closed-loop system: UFC distribution drives engagement; engagement drives fees; fees fund treasury programs; and growth increases the utility and demand for $FIGHT. The more Fight activates around UFC events, the stronger and more predictable this value-accrual flywheel becomes.
 

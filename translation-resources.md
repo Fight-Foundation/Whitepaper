@@ -59,7 +59,7 @@ This document provides the glossary and context summary for translating the FIGH
 | governance rights | droits de gouvernance | 거버넌스 권리 | Voting power |
 | staking | staking / mise en jeu | 스테이킹 | Locking tokens |
 | stake | mise / enjeu | 스테이크 | Staked amount |
-| burn / burning | brûlage / destruction | 소각 | Token destruction |
+| access credits / allocations | crédits d'accès / allocations | 접근 크레딧 / 할당 | Neutral program usage |
 | circulating supply | offre en circulation | 유통량 | Available tokens |
 | total supply | offre totale | 총 공급량 | Maximum tokens |
 | vesting | acquisition progressive | 베스팅 | Gradual release |
@@ -188,7 +188,7 @@ The ecosystem operates on three interconnected layers:
 ### 4. Revenue Model
 Real, operating revenue from:
 - UFC Strike digital collectibles (primary sales, platform fees, secondary royalties)
-- Partner burns ($FIGHT burned for FP distribution)
+- Partner FP allocations (projects use $FIGHT for FP distribution)
 - Fighter community memberships and upgrades
 - FightGear merchandise
 - Prize$Fight protocol fees
@@ -218,7 +218,7 @@ The Athlete Council ensures fighter voices shape product design and incentives.
 - **Proven revenue**: Not speculative; operational and revenue-positive
 - **UFC partnership**: Real distribution and cultural legitimacy
 - **Event-synchronized**: Fight weeks create predictable engagement and revenue windows
-- **Dual access model**: Both B2B (partner burns) and B2C (fan access) utility
+- **Dual access model**: Both B2B (partner FP allocations) and B2C (fan access) utility
 
 ---
 

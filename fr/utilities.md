@@ -12,11 +12,11 @@ L'écosystème Fight intègre de multiples surfaces d'utilité qui transforment 
 
 ## Accès à l'Écosystème Partenaire (Produit Phare)
 
-**Les projets brûlent des $FIGHT pour acquérir des FP** qu'ils distribuent via des quêtes, campagnes et défis pour inciter la communauté Fight.ID. Ce modèle B2B crée une demande directe pour $FIGHT car les partenaires de l'écosystème paient pour accéder à la base de fans engagée. Les projets utilisent les récompenses FP pour conduire les actions utilisateurs — compléter des quêtes, interagir avec le contenu, participer aux événements — créant un volant où la demande partenaire alimente les brûlages de jetons et la participation des fans génère de la réputation.
+**Les projets utilisent des $FIGHT pour acquérir des FP** qu'ils distribuent via des quêtes, campagnes et défis pour inciter la communauté Fight.ID. Ce modèle B2B crée une demande directe pour $FIGHT car les partenaires de l'écosystème paient pour accéder à la base de fans engagée. Les projets utilisent les récompenses FP pour conduire les actions utilisateurs — compléter des quêtes, interagir avec le contenu, participer aux événements — créant un volant où la demande partenaire alimente les programmes de l'écosystème et la participation des fans génère de la réputation.
 
 **Pourquoi c'est important :** Convertit l'audience de Fight.ID en un actif monétisable. Les partenaires accèdent à une communauté authentifiée et scorée par réputation ; les fans gagnent des FP via une participation significative ; $FIGHT devient la monnaie requise pour l'accès à l'écosystème.
 
-**Accumulation de valeur :** Les partenaires brûlent des $FIGHT pour acquérir des FP → réduction permanente de l'offre. À mesure que Fight.ID évolue et que plus de partenaires cherchent la distribution, la demande de brûlage croît, resserrant directement l'offre en circulation tout en étendant l'utilité.
+**Accumulation de valeur :** Les partenaires utilisent des $FIGHT pour acquérir des allocations de FP. À mesure que Fight.ID évolue et que plus de partenaires cherchent la distribution, la demande pour ces programmes croît, étendant l'utilité de l'écosystème.
 
 ---
 
@@ -39,7 +39,7 @@ Clubs de fans on-chain nécessitant des **stakes en $FIGHT** pour l'adhésion. C
 - **Routage des récompenses :** Les frais d'adhésion et les revenus de la communauté vont aux membres existants (pro-rata) et à la trésorerie de la DAO pour le soutien de l'écosystème et les subventions.
 - **Multiplicateurs FP :** Les membres à FP élevé reçoivent des rendements boostés, un accès prioritaire et des avantages communautaires améliorés.
 
-**Accumulation de valeur :** Le staking verrouille l'offre ; les frais de communauté génèrent des revenus libellés en $FIGHT routés vers la DAO pour des programmes de trésorerie qui soutiennent le jeton et l'écosystème ; les boosts FP augmentent la durée des stakes. Les moments de semaine de combat UFC conduisent de nouvelles adhésions → prix d'entrée plus élevés → plus de frais → croissance et brûlages.
+**Accumulation de valeur :** Le staking verrouille l'offre ; les frais de communauté génèrent des revenus libellés en $FIGHT routés vers la DAO pour des programmes de trésorerie qui soutiennent le jeton et l'écosystème ; les boosts FP augmentent la durée des stakes. Les moments de semaine de combat UFC conduisent de nouvelles adhésions → prix d'entrée plus élevés → plus de frais → croissance des programmes.
 
 ---
 
@@ -105,7 +105,7 @@ Toutes les surfaces d'utilité génèrent des frais libellés en $FIGHT qui vont
 | Utilité | Flux de Revenus | Cadence |
 |---------|----------------|---------|
 | **Drops Sous Licence (UFC Strike)** | Ventes primaires, frais de plateforme, royalties secondaires | Synchronisés aux événements (semaines de combat) |
-| **Accès Écosystème Partenaire** | Brûlages $FIGHT pour distribution FP | En continu |
+| **Accès Écosystème Partenaire** | Allocations FP partenaires | En continu |
 | **Communautés de Combattants** | Frais d'adhésion/mise à niveau, tournois | En continu |
 | **FightGear** | Ventes, royalties, réductions détenteurs | Cycles événementiels et drops |
 | **Prize\$Fight** | Frais de protocole sur financement & entrées | Basé sur les événements |

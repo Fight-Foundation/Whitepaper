@@ -63,11 +63,11 @@ La pertinence culturelle de l'UFC ancre Fight fermement dans l'engagement sporti
 
 ## Comment la Valeur S'Accumule pour $FIGHT
 
-Les activations amplifiées par l'UFC se traduisent directement en utilisation de $FIGHT. Quand les fans participent à l'écosystème via des quêtes (financées par des projets qui brûlent des $FIGHT pour des FP), mettent en jeu pour entrer dans les communautés de combattants, ou effectuent des transactions pour des marchandises et des billets, ils génèrent une activité on-chain et des flux de frais libellés en $FIGHT.
+Les activations amplifiées par l'UFC se traduisent directement en utilisation de $FIGHT. Quand les fans participent à l'écosystème via des quêtes (financées par des projets qui utilisent des $FIGHT pour des allocations de FP), mettent en jeu pour entrer dans les communautés de combattants, ou effectuent des transactions pour des marchandises et des billets, ils génèrent une activité on-chain et des flux de frais libellés en $FIGHT.
 
 Le Volant de Valeur :
-- **Demande Partenaire** — Les projets brûlent des $FIGHT pour acquérir des FP à distribuer
-- **Politique de Trésorerie** — Les frais et brûlages sont acheminés vers la trésorerie de la DAO selon des politiques transparentes
+- **Demande Partenaire** — Les projets utilisent des $FIGHT pour acquérir des allocations de FP à distribuer
+- **Politique de Trésorerie** — Les frais sont acheminés vers la trésorerie de la DAO selon des politiques transparentes
 - **Croissance de l'Écosystème** — La DAO déploie les revenus nets pour soutenir le jeton et financer des subventions qui attirent de nouveaux utilisateurs
 
-Cela crée un système en boucle fermée : la distribution UFC stimule l'engagement ; l'engagement génère des frais et des brûlages ; les frais financent les programmes de trésorerie ; et la croissance augmente l'utilité et la demande pour $FIGHT. Plus Fight s'active autour des événements UFC, plus ce volant d'accumulation de valeur devient fort et prévisible.
+Cela crée un système en boucle fermée : la distribution UFC stimule l'engagement ; l'engagement génère des frais ; les frais financent les programmes de trésorerie ; et la croissance augmente l'utilité et la demande pour $FIGHT. Plus Fight s'active autour des événements UFC, plus ce volant d'accumulation de valeur devient fort et prévisible.

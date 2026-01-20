@@ -57,7 +57,7 @@ FIGHT utilise le protocole Omnichain Fungible Token (OFT) de LayerZero pour des 
    - Des jetons équivalents sont mintés sur BSC
 
 2. **BSC → Solana :**
-   - Les jetons sont brûlés sur BSC
+   - Le solde du contrat sur BSC est réduit
    - Un message LayerZero est envoyé à Solana
    - Des jetons équivalents sont libérés de l'escrow sur Solana
 

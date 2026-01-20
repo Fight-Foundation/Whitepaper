@@ -19,6 +19,6 @@ FightID is the on-ramp to all paid utilities that touch $FIGHT: licensed digital
 
 Identity also powers the drops business: Fight.ID holders receive priority access to event-synchronized collectible releases, FP scores gate exclusive drop tiers, and ownership history informs personalized drop recommendations. This transforms drops from one-time transactions into ongoing relationship commerce.
 
-Identity gating reduces fraud and bot activity, which protects fee revenue and makes token sinks (fees, memberships, upgrades, burns) more durable.
+Identity gating reduces fraud and bot activity, which protects fee revenue and makes tokenized program flows (fees, memberships, upgrades) more durable.
 
-**In short**: more FightIDs claimed → more qualified users accessing licensed drops and paid features → more fees and burns routed to the DAO → more DAO treasury programs and ecosystem growth that support $FIGHT.
+**In short**: more FightIDs claimed → more qualified users accessing licensed drops and paid features → more fees routed to the DAO → more DAO treasury programs and ecosystem growth that support $FIGHT.

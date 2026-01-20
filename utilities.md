@@ -12,11 +12,11 @@ The Fight ecosystem integrates multiple utility surfaces that turn combat-sports
 
 ## Partner Ecosystem Access (Flagship)
 
-**Projects burn $FIGHT to acquire FP** that they distribute through quests, campaigns, and challenges to incentivize the Fight.ID community. This B2B model creates direct demand for $FIGHT as ecosystem partners pay to access the engaged fanbase. Projects use FP rewards to drive user actions—completing quests, engaging with content, participating in events—creating a flywheel where partner demand fuels token burns and fan participation earns reputation.
+**Projects use $FIGHT to acquire FP** that they distribute through quests, campaigns, and challenges to incentivize the Fight.ID community. This B2B model creates direct demand for $FIGHT as ecosystem partners pay to access the engaged fanbase. Projects use FP rewards to drive user actions—completing quests, engaging with content, participating in events—creating a flywheel where partner demand funds ecosystem support programs and fan participation earns reputation.
 
 **Why it matters:** Converts Fight.ID's audience into a monetizable asset. Partners get access to an authenticated, reputation-scored community; fans earn FP through meaningful participation; $FIGHT becomes the required currency for ecosystem access.
 
-**Value accrual:** Partners burn $FIGHT to acquire FP → permanent supply reduction. As Fight.ID scales and more partners seek distribution, burn demand grows, directly tightening circulating supply while expanding utility.
+**Value accrual:** Partners use $FIGHT to acquire FP via treasury-administered access credits. As Fight.ID scales and more partners seek distribution, program demand grows, expanding utility.
 
 ---
 
@@ -39,7 +39,7 @@ On-chain fan clubs requiring **$FIGHT stakes** for membership. Each fighter's co
 - **Reward routing:** Join fees and community revenues flow to existing members (pro-rata) and the DAO treasury for ecosystem support and grants.
 - **FP multipliers:** High-FP members receive boosted yields, priority access, and enhanced community perks.
 
-**Value accrual:** Staking locks supply; community fees generate $FIGHT-denominated revenues routed to DAO for treasury programs that support the token and ecosystem; FP boosts increase stake duration. UFC fight-week moments drive new memberships → higher entry prices → more fees → growth and burns.
+**Value accrual:** Staking locks supply; community fees generate $FIGHT-denominated revenues routed to DAO for treasury programs that support the token and ecosystem; FP boosts increase stake duration. UFC fight-week moments drive new memberships → higher entry prices → more fees → growth and expanded programs.
 
 ---
 
@@ -105,7 +105,7 @@ All utility surfaces generate $FIGHT-denominated fees flowing to the DAO treasur
 | Utility | Revenue Streams | Cadence |
 |---------|----------------|---------|
 | **Licensed Drops (UFC Strike)** | Primary sales, platform fees, secondary royalties | Event-synchronized (fight weeks) |
-| **Partner Ecosystem Access** | $FIGHT burns for FP distribution | Ongoing |
+| **Partner Ecosystem Access** | $FIGHT usage for FP distribution | Ongoing |
 | **Fighter Communities** | Join/upgrade fees, tournaments | Ongoing |
 | **FightGear** | Sales, royalties, holder discounts | Event and drop cycles |
 | **Prize\$Fight** | Protocol fee on funding & entries | Event-based |

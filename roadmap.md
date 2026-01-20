@@ -24,7 +24,7 @@ During the pre-TGE phase, we publish the full emissions and governance specifica
 
 ## Post-TGE (Near-Term)
 
-Immediately after TGE, **staking** goes live with **FP multipliers** and **leaderboards** so that early adopters see tangible advantages for reputation. We also run the first **Prize\$Fight** bounties to reward standout performances and superfans, and we light up **$FIGHT rails for merch and tickets** with UFC-adjacent partners where supported. The **Partner Ecosystem Access** model launches, enabling select projects to burn $FIGHT for FP distribution to the Fight.ID community through quests and campaigns.
+Immediately after TGE, **staking** goes live with **FP multipliers** and **leaderboards** so that early adopters see tangible advantages for reputation. We also run the first **Prize\$Fight** bounties to reward standout performances and superfans, and we light up **$FIGHT rails for merch and tickets** with UFC-adjacent partners where supported. The **Partner Ecosystem Access** model launches, enabling select projects to use $FIGHT for FP distribution to the Fight.ID community through quests and campaigns.
 
 **Future UFC Strike Gifts Drop:** Following the success of the first **UFC Strike Gifts Drop**, which validated the platform as a **high-reach** surface for rapid Fight.ID creation and low-friction onboarding, the 2026 roadmap aims to establish a **predictable distribution and monetization rhythm**. UFC Strike Gifts Telegram Drops #2, #3, and #4 are tentatively scheduled across Q2, Q3, and Q4 to maintain **consistent engagement** and scale the ecosystem’s geographic footprint in Asia, LATAM, and emerging markets. 
 
@@ -32,17 +32,17 @@ This distribution strategy is specifically designed to **convert Telegram's 1 bi
 
 **Why this matters:** Fans get instant, meaningful utility on day one—stake to join fighter communities, earn boosted rewards via FP, and participate in visible prize moments. Projects gain direct access to an authenticated, engaged fanbase, creating immediate demand for $FIGHT. Telegram distribution converts mainstream users into Fight.ID holders at minimal friction.
 
-**How value accrues to $FIGHT:** Staking locks remove tokens from circulation, community actions create recurring micro-fees, partner burns reduce circulating supply, and commerce rails settle in $FIGHT where available; a share of net revenues flows to the DAO for **treasury programs** and growth programs. Telegram-onboarded users funnel into licensed drops, gated access, and merchandise, driving downstream monetization.
+**How value accrues to $FIGHT:** Staking locks remove tokens from circulation, community actions create recurring micro-fees, partner FP allocations increase program participation, and commerce rails settle in $FIGHT where available; a share of net revenues flows to the DAO for **treasury programs** and growth programs. Telegram-onboarded users funnel into licensed drops, gated access, and merchandise, driving downstream monetization.
 
 ---
 
 ## Q1 2026
 
-We expand **exchange coverage** to improve routing depth and accessibility for new users, and introduce **partner-operated prediction markets** (subject to DAO authorization) offering fantasy-style, culture-based games synchronized to the UFC calendar. Additional **partner surfaces** that accept $FIGHT for access, entries, and upgrades go live. The **Partner Ecosystem Access** model scales, with more projects burning $FIGHT for FP to incentivize Fight.ID community participation. Event-synchronized drops intensify around marquee UFC cards, with licensed collectibles, FP-boosted challenges, and gated merchandise access creating predictable revenue windows aligned to the fight calendar.
+We expand **exchange coverage** to improve routing depth and accessibility for new users. Additional **partner surfaces** that accept $FIGHT for access, entries, and upgrades go live. The **Partner Ecosystem Access** model scales, with more projects using $FIGHT for FP to incentivize Fight.ID community participation. Event-synchronized drops intensify around marquee UFC cards, with licensed collectibles, FP-boosted challenges, and gated merchandise access creating predictable revenue windows aligned to the fight calendar.
 
-**Why this matters:** Partner-operated prediction markets add repeatable engagement loops around weekly cards with licensed operator compliance and global reach. Broader listings reduce slippage and improve onboarding for mainstream fans. Growing partner demand for ecosystem access creates sustained burn pressure on circulating supply. Event-driven drops create repeatable, forecastable revenue tied to UFC's existing audience and promotion cycles.
+**Why this matters:** New partner-operated utilities add repeatable engagement loops around weekly cards with licensed operator compliance and global reach. Broader listings reduce slippage and improve onboarding for mainstream fans. Growing partner demand for ecosystem access increases program participation. Event-driven drops create repeatable, forecastable revenue tied to UFC's existing audience and promotion cycles.
 
-**How value accrues to $FIGHT:** Prediction market revenue-share fees flow to DAO for treasury allocation; exchange depth supports higher throughput; partner burns directly reduce circulating supply; drop revenues (primary sales, platform fees, royalties) flow to DAO for treasury allocation and ecosystem support, compounding value accrual as ecosystem scales.
+**How value accrues to $FIGHT:** Partner utility fees flow to DAO for treasury allocation; exchange depth supports higher throughput; partner FP allocations increase program participation; drop revenues (primary sales, platform fees, royalties) flow to DAO for treasury allocation and ecosystem support, compounding value accrual as ecosystem scales.
 
 ---
 
@@ -54,7 +54,7 @@ We **scale Fighter Communities** with **dynamic entry pricing** and **member div
 
 **MMA Gym Drops (Q2 Exploratory):** Physical-to-digital funnel leveraging gyms as real-world distribution nodes and community anchors. Gym-specific digital collectibles, FP multipliers, and localized access privileges create authentic, grassroots adoption with strong defensibility versus purely digital campaigns. Gyms act as trusted onboarding environments embedded in combat sports culture.
 
-**Collaboration with prediction market platforms (Q2–Q3 2026):** Explore partnerships and technical alignment with compliant prediction market providers. Focus on co-marketing, audience cross-over, and interoperability where appropriate.
+
 
 **Why this matters:** Communities convert casual engagement into durable membership with real skin in the game, and apparel acts as a viral surface that reaches beyond crypto. Telegram, consumer IP, and gym drops diversify distribution channels and audience demographics, reducing reliance on crypto-native users. New league and partner surfaces multiply places where identity, reputation, and ownership matter.
 
@@ -68,7 +68,7 @@ We begin the **FightHub** rollout—an interoperable network of partner apps and
 
 **Why this matters:** FightHub turns our stack into a standard for combat-sports participation, compounding network effects as more partners and fans align on one identity, one reputation system, and one token. **FightGear** business adds value both in revenue and marketing adoption.
 
-**How value accrues to $FIGHT:** Each new surface adds utility and fee streams denominated in $FIGHT; the DAO continually converts a share of those flows into **reduced circulating supply** (burns) and **greater utility** (grants, liquidity, partnerships), reinforcing token value as the ecosystem scales—card after card, season after season. **FightGear** phygital business generates profits and serves as social proof for $FIGHT marketing purposes.
+**How value accrues to $FIGHT:** Each new surface adds utility and fee streams denominated in $FIGHT; the DAO continually allocates a share of those flows to **ecosystem programs** (grants, liquidity, partnerships), reinforcing token value as the ecosystem scales—card after card, season after season. **FightGear** phygital business generates profits and serves as social proof for $FIGHT marketing purposes.
 
 ---
 

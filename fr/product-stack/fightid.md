@@ -19,6 +19,6 @@ FightID est le point d'entrée vers toutes les utilités payantes qui touchent $
 
 L'identité alimente également l'activité de drops : les détenteurs de Fight.ID reçoivent un accès prioritaire aux sorties d'objets de collection synchronisées aux événements, les scores FP conditionnent les niveaux de drops exclusifs, et l'historique de propriété informe les recommandations de drops personnalisées. Cela transforme les drops de transactions ponctuelles en commerce relationnel continu.
 
-Le conditionnement par identité réduit la fraude et l'activité de bots, ce qui protège les revenus de frais et rend les puits de jetons (frais, adhésions, mises à niveau, brûlages) plus durables.
+Le conditionnement par identité réduit la fraude et l'activité de bots, ce qui protège les revenus de frais et rend les flux du jeton (frais, adhésions, mises à niveau) plus durables.
 
-**En résumé** : plus de FightIDs réclamés → plus d'utilisateurs qualifiés accédant aux drops sous licence et fonctionnalités payantes → plus de frais et brûlages routés vers la DAO → plus de programmes de trésorerie DAO et croissance de l'écosystème qui soutiennent $FIGHT.
+**En résumé** : plus de FightIDs réclamés → plus d'utilisateurs qualifiés accédant aux drops sous licence et fonctionnalités payantes → plus de frais libellés en $FIGHT routés vers la DAO → plus de programmes de trésorerie DAO et croissance de l'écosystème qui soutiennent $FIGHT.
